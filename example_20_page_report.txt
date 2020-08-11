@@ -1,0 +1,2241 @@
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 0-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=0&count=100&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+1904.19		1		StatTrak Flip Knife | Bright Water (Battle-Scarred)
+1851.31		1		StatTrak Gut Knife | Stained (Minimal Wear)
+1845.42		2		Sticker | 3DMAX (Holo) | Katowice 2014
+1805.88		1		Paracord Knife | Stained (Factory New)
+1805.88		1		Skeleton Knife | Blue Steel (Factory New)
+1802.59		1		Karambit | Lore (Factory New)
+1800.0		1		Souvenir AUG | Contractor (Factory New)
+1799.99		1		AWP | Medusa (Field-Tested)
+1799.0		1		Stiletto Knife | Crimson Web (Factory New)
+1792.87		1		StatTrak Karambit | Damascus Steel (Battle-Scarred)
+1792.87		1		AK-47 | Wild Lotus (Field-Tested)
+1762.68		1		StatTrak Butterfly Knife | Marble Fade (Factory New)
+1757.26		1		Butterfly Knife | Night (Factory New)
+1757.26		2		AWP | Medusa (Battle-Scarred)
+1748.57		1		StatTrak Falchion Knife | Blue Steel (Battle-Scarred)
+1725.0		1		StatTrak Falchion Knife | Crimson Web (Minimal Wear)
+1718.68		2		Sticker | compLexity Gaming (Holo) | Katowice 2014
+1704.37		2		Sticker | bodyy (Gold) | Krakow 2017
+1690.0		1		AWP | The Prince (Field-Tested)
+1673.82		1		Sticker | GuardiaN (Gold) | Krakow 2017
+1648.23		1		Sticker | steel (Gold) | Krakow 2017
+1629.98		1		StatTrak Karambit | Lore (Minimal Wear)
+1622.08		5		Sport Gloves | Vice (Field-Tested)
+1622.08		2		Hand Wraps | Cobalt Skulls (Minimal Wear)
+1622.08		1		Hydra Gloves | Case Hardened (Factory New)
+1622.08		1		Bayonet | Boreal Forest (Factory New)
+1610.2		2		Skeleton Knife | Crimson Web (Field-Tested)
+1598.5		1		StatTrak Skeleton Knife | Slaughter (Minimal Wear)
+1581.86		1		Huntsman Knife | Urban Masked (Factory New)
+1557.36		2		Sticker | device (Gold) | Boston 2018
+1550.0		1		Skeleton Knife | Slaughter (Factory New)
+1544.16		3		Sticker | rain (Gold) | Boston 2018
+1528.05		4		Sticker | Howling Dawn
+1528.05		2		Sport Gloves | Amphibious (Minimal Wear)
+1527.56		7		Sticker | Ninjas in Pyjamas (Holo) | Katowice 2014
+1527.57		1		StatTrak Huntsman Knife | Stained (Battle-Scarred)
+1527.57		1		StatTrak Skeleton Knife | Urban Masked (Well-Worn)
+1527.57		1		AWP | The Prince (Battle-Scarred)
+1527.57		1		Souvenir M4A1-S | Control Panel (Factory New)
+1516.39		1		M9 Bayonet | Lore (Minimal Wear)
+1518.51		3		Sticker | electronic (Gold) | Boston 2018
+1500.0		2		StatTrak Bayonet | Lore (Factory New)
+1495.0		1		StatTrak Stiletto Knife | Case Hardened (Factory New)
+1492.67		5		StatTrak Butterfly Knife | Fade (Factory New)
+1486.9		2		Specialist Gloves | Fade (Minimal Wear)
+1486.46		1		StatTrak Gut Knife | Rust Coat (Well-Worn)
+1483.44		1		Souvenir AK-47 | Black Laminate (Factory New)
+1482.55		2		StatTrak Butterfly Knife | Crimson Web (Minimal Wear)
+1469.29		2		DreamHack 2014 Cobblestone Souvenir Package
+1462.95		1		StatTrak Skeleton Knife | Case Hardened (Minimal Wear)
+1446.64		2		Paracord Knife | Crimson Web (Minimal Wear)
+1433.25		1		Glock-18 | Fade (Minimal Wear)
+1433.25		1		StatTrak Paracord Knife | Fade (Factory New)
+1417.19		2		Sticker | allu (Gold) | Krakow 2017
+1416.51		2		Sticker | ropz (Gold) | Boston 2018
+1400.18		3		AUG | Akihabara Accept (Minimal Wear)
+1399.98		2		StatTrak AK-47 | Red Laminate (Factory New)
+1399.98		3		Paracord Knife | Fade (Factory New)
+1388.35		2		StatTrak Bayonet | Autotronic (Factory New)
+1380.0		2		StatTrak Karambit | Fade (Factory New)
+1380.0		1		M9 Bayonet | Case Hardened (Factory New)
+1368.0		4		M4A1-S | Knight (Factory New)
+1357.84		1		Souvenir P90 | Teardown (Factory New)
+1357.84		1		Talon Knife | Doppler (Minimal Wear)
+1357.83		1		StatTrak Skeleton Knife | Blue Steel (Well-Worn)
+1355.27		4		Moto Gloves | POW! (Minimal Wear)
+1351.74		1		StatTrak Skeleton Knife | Stained (Well-Worn)
+1351.74		2		Bayonet | Autotronic (Factory New)
+1351.74		1		StatTrak Nomad Knife | Urban Masked (Factory New)
+1351.74		3		M9 Bayonet | Crimson Web (Minimal Wear)
+1351.74		1		Karambit | Gamma Doppler (Minimal Wear)
+1351.5		1		StatTrak AK-47 | Wasteland Rebel (Factory New)
+1350.0		11		Butterfly Knife | Marble Fade (Factory New)
+1340.92		1		Sticker | NiKo (Gold) | Krakow 2017
+1340.92		1		StatTrak Shadow Daggers | Damascus Steel (Minimal Wear)
+1324.64		1		Sticker | Happy (Gold) | Boston 2018
+1318.59		1		StatTrak Paracord Knife | Case Hardened (Factory New)
+1307.9		2		AK-47 | Wild Lotus (Well-Worn)
+1299.45		11		Butterfly Knife | Fade (Factory New)
+1303.67		1		StatTrak AK-47 | Fire Serpent (Well-Worn)
+1289.91		1		Sticker | JW (Gold) | Krakow 2017
+1288.4		4		Butterfly Knife | Crimson Web (Minimal Wear)
+1280.91		2		Sport Gloves | Vice (Well-Worn)
+1274.0		3		Skeleton Knife | Slaughter (Field-Tested)
+1276.38		6		Glock-18 | Fade (Factory New)
+1276.38		1		Sport Gloves | Omega (Minimal Wear)
+1234.21		4		StatTrak AK-47 | Legion of Anubis (Factory New)
+1232.59		6		Karambit | Lore (Minimal Wear)
+1232.59		6		Karambit | Fade (Factory New)
+1230.44		2		Skeleton Knife | Slaughter (Minimal Wear)
+1225.69		2		Sticker | innocent (Gold) | Krakow 2017
+1216.56		1		StatTrak Karambit | Autotronic (Minimal Wear)
+1202.36		1		StatTrak Skeleton Knife | Blue Steel (Minimal Wear)
+1200.96		1		Skeleton Knife | Crimson Web (Battle-Scarred)
+1200.0		3		Souvenir M4A1-S | Master Piece (Factory New)
+1200.0		1		Sport Gloves | Superconductor (Field-Tested)
+1200.0		1		Karambit | Crimson Web (Minimal Wear)
+1198.3		1		M4A1-S | Knight (Minimal Wear)
+1188.31		5		StatTrak Karambit | Marble Fade (Factory New)
+1171.91		2		Sticker | seang@res (Gold) | Boston 2018
+
+
+Page sum: $294020.9
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 1-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=100&count=200&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+1178.75		1		Specialist Gloves | Emerald Web (Minimal Wear)
+1176.6		3		AK-47 | Jet Set (Factory New)
+1174.54		1		Flip Knife | Boreal Forest (Factory New)
+1175.44		1		Sticker | Team LDLC.com | Katowice 2014
+1175.21		3		Driver Gloves | Crimson Weave (Minimal Wear)
+1174.26		3		Sticker | MSL (Gold) | Krakow 2017
+1174.26		3		Moto Gloves | Spearmint (Field-Tested)
+1169.55		6		Sticker | s1mple (Gold) | Katowice 2019
+1167.73		5		StatTrak Butterfly Knife | Doppler (Factory New)
+1154.39		2		Souvenir G3SG1 | Jungle Dashed (Factory New)
+1150.74		4		Sticker | gla1ve (Gold) | Boston 2018
+1150.0		1		StatTrak Gut Knife | Ultraviolet (Battle-Scarred)
+1150.0		1		Driver Gloves | Lunar Weave (Factory New)
+1150.0		1		Butterfly Knife | Doppler (Minimal Wear)
+1146.6		2		SCAR-20 | Splash Jam (Factory New)
+1146.6		2		Sticker | ropz (Gold) | Krakow 2017
+1146.27		6		Bayonet | Lore (Factory New)
+1145.44		1		Karambit | Night (Factory New)
+1141.95		3		Sticker | kennyS (Gold) | London 2018
+1138.85		1		StatTrak Survival Knife | Crimson Web (Minimal Wear)
+1134.26		5		Sticker | Fnatic (Holo) | Katowice 2014
+1133.12		1		Karambit | Fade (Minimal Wear)
+1127.86		1		StatTrak Karambit | Crimson Web (Minimal Wear)
+1122.47		2		StatTrak Falchion Knife | Urban Masked (Well-Worn)
+1113.7		1		M9 Bayonet | Autotronic (Factory New)
+1095.0		1		StatTrak Talon Knife | Marble Fade (Minimal Wear)
+1093.07		2		Sticker | device (Gold) | Krakow 2017
+1091.24		6		Specialist Gloves | Crimson Kimono (Field-Tested)
+1090.8		4		M4A4 | Poseidon (Factory New)
+1086.26		1		StatTrak Butterfly Knife | Ultraviolet (Minimal Wear)
+1081.38		1		Skeleton Knife | Case Hardened (Battle-Scarred)
+1074.93		3		Sticker | s1mple (Gold) | London 2018
+1074.99		10		Sticker | Vox Eminor (Holo) | Katowice 2015
+1070.88		2		Sticker | shroud (Gold) | Krakow 2017
+1078.07		4		Skeleton Knife | Case Hardened (Minimal Wear)
+1054.86		1		StatTrak Classic Knife | Scorched (Factory New)
+1053.29		1		Moto Gloves | Spearmint (Well-Worn)
+1045.53		4		StatTrak Talon Knife | Fade (Factory New)
+1044.63		13		Butterfly Knife | Slaughter (Factory New)
+1039.69		1		StatTrak Skeleton Knife | Crimson Web (Battle-Scarred)
+1039.45		4		StatTrak Butterfly Knife | Slaughter (Factory New)
+1031.14		1		Survival Knife | Case Hardened (Factory New)
+1031.95		1		Talon Knife | Case Hardened (Factory New)
+1028.5		15		Karambit | Marble Fade (Factory New)
+1023.55		1		StatTrak Survival Knife | Fade (Factory New)
+1025.85		1		StatTrak Paracord Knife | Slaughter (Factory New)
+1018.16		3		Sport Gloves | Hedge Maze (Field-Tested)
+1019.28		1		StatTrak P90 | Emerald Dragon (Factory New)
+1018.38		1		StatTrak Talon Knife | Crimson Web (Minimal Wear)
+1018.38		1		Sticker | XANTARES (Gold) | Boston 2018
+1016.63		2		StatTrak AK-47 | Vulcan (Factory New)
+1013.79		4		Sticker | Edward (Gold) | Krakow 2017
+1013.79		3		StatTrak Karambit | Autotronic (Field-Tested)
+1013.79		1		StatTrak Bowie Knife | Scorched (Minimal Wear)
+1003.12		1		StatTrak Nomad Knife
+1000.0		1		Souvenir SG 553 | Integrale (Minimal Wear)
+1000.0		2		Sticker | Skadoodle (Gold) | Krakow 2017
+999.12		4		Sticker | chopper (Gold) | Krakow 2017
+999.35		4		Sticker | kennyS (Gold) | Katowice 2019
+999.13		6		Talon Knife | Fade (Factory New)
+999.0		2		StatTrak Talon Knife | Doppler (Factory New)
+995.95		1		Sticker | fer (Gold) | Krakow 2017
+977.5		5		StatTrak Talon Knife | Marble Fade (Factory New)
+976.04		4		AK-47 | Wild Lotus (Battle-Scarred)
+959.73		1		StatTrak AK-47 | Asiimov (Factory New)
+957.52		3		Karambit | Autotronic (Minimal Wear)
+952.52		3		StatTrak M9 Bayonet | Gamma Doppler (Factory New)
+950.02		1		StatTrak Butterfly Knife | Tiger Tooth (Minimal Wear)
+946.22		1		Butterfly Knife | Tiger Tooth (Minimal Wear)
+945.26		5		Sticker | Harp of War (Holo)
+944.24		4		StatTrak Karambit | Gamma Doppler (Factory New)
+940.35		2		StatTrak M9 Bayonet | Marble Fade (Factory New)
+940.35		1		Sport Gloves | Vice (Battle-Scarred)
+940.35		2		StatTrak Desert Eagle | Printstream (Factory New)
+940.35		6		Skeleton Knife
+938.76		6		Specialist Gloves | Crimson Web (Minimal Wear)
+940.03		2		StatTrak Karambit | Slaughter (Factory New)
+935.11		1		Sticker | NiKo (Gold) | London 2018
+935.11		4		Sticker | Lekr0 (Gold) | Boston 2018
+931.61		2		Skeleton Knife | Case Hardened (Field-Tested)
+931.61		5		Classic Knife | Crimson Web (Well-Worn)
+931.46		2		Moto Gloves | Cool Mint (Minimal Wear)
+930.94		1		StatTrak Nomad Knife | Fade (Factory New)
+931.05		3		StatTrak Butterfly Knife | Tiger Tooth (Factory New)
+929.62		2		Sport Gloves | Pandora's Box (Battle-Scarred)
+927.54		21		Butterfly Knife | Doppler (Factory New)
+920.0		3		Sticker | FalleN (Gold) | Krakow 2017
+920.0		1		StatTrak Ursus Knife | Fade (Factory New)
+919.48		2		StatTrak Butterfly Knife | Slaughter (Minimal Wear)
+900.0		1		Karambit | Autotronic (Well-Worn)
+900.0		2		Sticker | coldzera (Gold) | Krakow 2017
+892.13		1		StatTrak M9 Bayonet | Lore (Field-Tested)
+887.94		15		M9 Bayonet | Marble Fade (Factory New)
+884.36		1		Sport Gloves | Superconductor (Well-Worn)
+881.59		2		StatTrak Karambit | Black Laminate (Well-Worn)
+880.37		3		StatTrak Karambit | Tiger Tooth (Factory New)
+875.12		9		AK-47 | Fire Serpent (Minimal Wear)
+875.0		16		Butterfly Knife | Tiger Tooth (Factory New)
+874.87		6		Driver Gloves | Imperial Plaid (Minimal Wear)
+870.0		3		StatTrak Karambit | Doppler (Minimal Wear)
+
+
+Page sum: $327261.44
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 2-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=200&count=300&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+881.59		2		StatTrak Karambit | Black Laminate (Well-Worn)
+880.37		3		StatTrak Karambit | Tiger Tooth (Factory New)
+875.12		9		AK-47 | Fire Serpent (Minimal Wear)
+875.0		16		Butterfly Knife | Tiger Tooth (Factory New)
+874.87		6		Driver Gloves | Imperial Plaid (Minimal Wear)
+870.0		3		StatTrak Karambit | Doppler (Minimal Wear)
+862.5		4		StatTrak M4A4 | Royal Paladin (Factory New)
+848.61		1		Souvenir Dual Berettas | Cobalt Quartz (Factory New)
+856.69		1		StatTrak M9 Bayonet | Safari Mesh (Minimal Wear)
+843.22		1		Sticker | captainMo (Gold) | London 2018
+843.21		9		Butterfly Knife | Slaughter (Minimal Wear)
+843.22		5		Sticker | pashaBiceps (Gold) | Krakow 2017
+840.95		3		Survival Knife | Crimson Web (Minimal Wear)
+839.0		4		StatTrak Bayonet | Gamma Doppler (Factory New)
+834.32		11		AK-47 | Hydroponic (Factory New)
+834.25		1		StatTrak Nomad Knife | Stained (Factory New)
+831.57		3		StatTrak Skeleton Knife | Case Hardened (Battle-Scarred)
+829.57		1		Specialist Gloves | Forest DDPAT (Factory New)
+824.12		3		StatTrak Bayonet | Lore (Minimal Wear)
+824.12		1		Sticker | JW (Gold) | Boston 2018
+824.12		1		Sticker | qikert (Gold) | Boston 2018
+822.8		1		Souvenir M4A1-S | Nitro (Minimal Wear)
+822.8		1		StatTrak M9 Bayonet | Slaughter (Factory New)
+822.8		4		Survival Knife | Fade (Factory New)
+822.8		1		StatTrak Survival Knife | Crimson Web (Field-Tested)
+822.78		2		StatTrak M9 Bayonet | Fade (Factory New)
+816.96		2		StatTrak Flip Knife | Crimson Web (Minimal Wear)
+815.85		2		Specialist Gloves | Foundation (Minimal Wear)
+814.5		3		Hand Wraps | Overprint (Minimal Wear)
+814.71		5		Sticker | Natus Vincere | Katowice 2014
+814.71		3		StatTrak USP-S | Kill Confirmed (Factory New)
+811.63		3		Paracord Knife | Slaughter (Factory New)
+811.04		2		StatTrak Ursus Knife | Crimson Web (Minimal Wear)
+801.52		2		Sticker | ShahZaM (Gold) | Boston 2018
+805.0		17		Talon Knife | Marble Fade (Factory New)
+805.0		3		Bayonet | Lore (Minimal Wear)
+798.56		2		StatTrak Survival Knife | Slaughter (Factory New)
+801.52		1		Sticker | boltz (Gold) | Krakow 2017
+801.52		2		StatTrak Falchion Knife | Case Hardened (Factory New)
+800.0		1		StatTrak Nomad Knife | Slaughter (Factory New)
+800.0		4		StatTrak Classic Knife | Fade (Factory New)
+801.52		1		StatTrak Stiletto Knife | Blue Steel (Factory New)
+799.75		15		Karambit | Gamma Doppler (Factory New)
+795.0		5		Souvenir M4A1-S | Knight (Factory New)
+790.7		4		M4A4 | Poseidon (Minimal Wear)
+789.99		2		Hydra Gloves | Mangrove (Factory New)
+782.84		2		StatTrak Bowie Knife | Marble Fade (Minimal Wear)
+775.67		2		StatTrak Bayonet | Slaughter (Factory New)
+774.91		1		Butterfly Knife | Case Hardened (Factory New)
+774.87		1		Talon Knife | Fade (Minimal Wear)
+769.92		2		Talon Knife | Marble Fade (Minimal Wear)
+770.42		5		Sticker | ZywOo (Gold) | Katowice 2019
+764.02		4		StatTrak Butterfly Knife
+763.63		14		StatTrak Karambit | Doppler (Factory New)
+763.09		1		StatTrak Paracord Knife | Night Stripe (Well-Worn)
+751.01		3		Butterfly Knife | Ultraviolet (Minimal Wear)
+754.42		3		Hand Wraps | Slaughter (Minimal Wear)
+752.27		1		StatTrak Karambit | Case Hardened (Field-Tested)
+750.0		1		Sticker | olofmeister (Gold) | Boston 2018
+750.83		2		Sticker | keshandr (Gold) | Krakow 2017
+748.57		2		StatTrak Talon Knife | Slaughter (Factory New)
+746.72		2		Karambit | Slaughter (Factory New)
+746.82		3		StatTrak Paracord Knife | Case Hardened (Minimal Wear)
+741.69		1		Sticker | NiKo (Gold) | Boston 2018
+744.0		8		Sticker | Titan (Holo) | Katowice 2015
+737.34		1		Butterfly Knife | Blue Steel (Factory New)
+732.05		7		StatTrak Karambit | Lore (Field-Tested)
+743.45		1		Sticker | Xyp9x (Gold) | Boston 2018
+729.93		2		Sticker | NBK- (Gold) | Krakow 2017
+729.99		6		Hand Wraps | Cobalt Skulls (Field-Tested)
+722.46		1		StatTrak Karambit | Case Hardened (Minimal Wear)
+726.93		1		Sticker | olofmeister (Gold) | Krakow 2017
+726.48		1		Classic Knife | Scorched (Factory New)
+718.42		1		StatTrak M9 Bayonet | Autotronic (Minimal Wear)
+717.17		3		M9 Bayonet | Gamma Doppler (Minimal Wear)
+716.62		2		Skeleton Knife | Blue Steel (Minimal Wear)
+716.18		1		StatTrak Butterfly Knife | Blue Steel (Well-Worn)
+716.3		11		Classic Knife | Fade (Factory New)
+713.25		1		StatTrak M9 Bayonet | Fade (Minimal Wear)
+708.74		3		Sticker | bondik (Gold) | London 2018
+705.26		3		StatTrak AWP | Containment Breach (Factory New)
+705.0		6		Sticker | Vox Eminor | Katowice 2014
+702.91		3		Sticker | dennis (Gold) | Krakow 2017
+702.28		6		Moto Gloves | POW! (Field-Tested)
+700.0		11		Sport Gloves | Amphibious (Field-Tested)
+700.0		1		StatTrak Bayonet | Fade (Factory New)
+700.0		2		Sport Gloves | Hedge Maze (Well-Worn)
+699.98		2		Sticker | ScreaM (Gold) | Boston 2018
+697.74		2		Sticker | s1mple (Foil) | Atlanta 2017
+696.84		4		Specialist Gloves | Mogul (Minimal Wear)
+690.0		11		M9 Bayonet | Fade (Factory New)
+690.0		8		Negev | Mju00f6lnir (Factory New)
+687.61		2		Hand Wraps | Cobalt Skulls (Well-Worn)
+687.48		3		Paracord Knife | Slaughter (Minimal Wear)
+683.45		10		M9 Bayonet | Slaughter (Factory New)
+680.38		16		Talon Knife | Doppler (Factory New)
+680.27		4		Butterfly Knife | Slaughter (Field-Tested)
+679.32		3		Sticker | electronic (Gold) | Krakow 2017
+679.03		4		StatTrak Butterfly Knife | Blue Steel (Minimal Wear)
+676.27		3		StatTrak Butterfly Knife | Blue Steel (Battle-Scarred)
+
+
+Page sum: $292383.61000000004
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 3-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=300&count=400&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+676.21		3		Skeleton Knife | Blue Steel (Field-Tested)
+674.77		3		Sticker | ESL Wolf (Foil) | Katowice 2014
+672.53		2		StatTrak Karambit | Slaughter (Minimal Wear)
+672.17		26		M9 Bayonet | Gamma Doppler (Factory New)
+670.46		1		StatTrak M9 Bayonet | Doppler (Minimal Wear)
+669.99		6		StatTrak Bayonet | Marble Fade (Factory New)
+667.95		1		M9 Bayonet | Fade (Minimal Wear)
+667.94		3		Nomad Knife | Fade (Factory New)
+661.11		2		Sticker | Magisk (Gold) | Krakow 2017
+667.0		3		StatTrak Butterfly Knife | Damascus Steel (Factory New)
+666.91		12		Butterfly Knife
+664.03		2		M4A4 | Poseidon (Field-Tested)
+663.74		6		StatTrak M4A4 | The Emperor (Factory New)
+663.18		11		Sticker | Natus Vincere (Holo) | Katowice 2015
+660.74		4		Talon Knife | Slaughter (Factory New)
+659.29		1		StatTrak Skeleton Knife | Urban Masked (Minimal Wear)
+659.29		1		StatTrak Classic Knife | Boreal Forest (Well-Worn)
+659.0		2		M9 Bayonet | Black Laminate (Factory New)
+657.75		3		Sticker | DickStacy (Gold) | Katowice 2019
+657.59		4		Karambit | Tiger Tooth (Minimal Wear)
+656.44		11		M9 Bayonet | Lore (Field-Tested)
+655.59		6		M9 Bayonet | Autotronic (Minimal Wear)
+651.76		8		Karambit | Doppler (Minimal Wear)
+650.0		4		Karambit | Autotronic (Field-Tested)
+650.0		1		Skeleton Knife | Blue Steel (Well-Worn)
+647.86		1		StatTrak Flip Knife | Autotronic (Factory New)
+646.48		3		Bayonet | Tiger Tooth (Minimal Wear)
+646.48		1		Ursus Knife | Doppler (Minimal Wear)
+646.48		1		Karambit | Slaughter (Field-Tested)
+646.47		1		StatTrak M9 Bayonet | Tiger Tooth (Minimal Wear)
+651.84		5		Paracord Knife | Crimson Web (Field-Tested)
+646.57		9		StatTrak M9 Bayonet | Tiger Tooth (Factory New)
+644.0		1		StatTrak Gut Knife | Doppler (Minimal Wear)
+645.23		3		StatTrak Desert Eagle | Crimson Web (Factory New)
+642.52		6		Negev | Mju00f6lnir (Minimal Wear)
+642.64		4		Sticker | ESL Skull (Foil) | Katowice 2014
+638.25		1		StatTrak Skeleton Knife | Safari Mesh (Minimal Wear)
+638.17		3		StatTrak AWP | Oni Taiji (Factory New)
+634.57		7		Talon Knife | Crimson Web (Minimal Wear)
+635.0		9		StatTrak Talon Knife | Tiger Tooth (Factory New)
+632.69		4		Moto Gloves | Polygon (Minimal Wear)
+633.66		3		Moto Gloves | Boom! (Minimal Wear)
+632.5		6		StatTrak Karambit | Case Hardened (Battle-Scarred)
+632.7		5		Paracord Knife | Slaughter (Field-Tested)
+629.48		8		Sport Gloves | Arid (Minimal Wear)
+626.33		2		AUG | Akihabara Accept (Field-Tested)
+624.59		4		Sticker | device (Gold) | London 2018
+621.8		4		Skeleton Knife | Case Hardened (Well-Worn)
+621.8		2		StatTrak Classic Knife | Crimson Web (Minimal Wear)
+620.0		79		Karambit | Doppler (Factory New)
+619.44		10		Driver Gloves | King Snake (Field-Tested)
+612.05		4		Sticker | flamie (Gold) | Krakow 2017
+618.08		1		Ursus Knife | Crimson Web (Minimal Wear)
+617.11		1		StatTrak Butterfly Knife | Night (Minimal Wear)
+616.46		26		Bayonet | Marble Fade (Factory New)
+609.5		1		Karambit | Black Laminate (Factory New)
+608.75		3		StatTrak Bayonet | Autotronic (Minimal Wear)
+608.28		1		StatTrak Butterfly Knife | Crimson Web (Well-Worn)
+608.42		2		Bayonet | Gamma Doppler (Minimal Wear)
+605.33		2		StatTrak Talon Knife | Slaughter (Minimal Wear)
+604.53		2		StatTrak SCAR-20 | Cardiac (Factory New)
+604.24		7		Sticker | Team Dignitas | Katowice 2014
+604.24		1		StatTrak Paracord Knife | Crimson Web (Field-Tested)
+602.26		2		Sport Gloves | Amphibious (Well-Worn)
+603.47		2		StatTrak Flip Knife | Lore (Factory New)
+603.92		1		Sticker | jks (Gold) | Boston 2018
+600.66		9		Karambit | Case Hardened (Minimal Wear)
+600.0		1		StatTrak Karambit | Crimson Web (Well-Worn)
+599.47		6		Sticker | mousesports | Katowice 2014
+600.66		1		Ursus Knife | Night Stripe (Factory New)
+600.66		3		Skeleton Knife | Urban Masked (Minimal Wear)
+595.99		5		StatTrak Butterfly Knife | Damascus Steel (Minimal Wear)
+596.55		8		Sticker | Tyloo (Foil) | Boston 2018
+596.5		2		Skeleton Knife | Blue Steel (Battle-Scarred)
+595.31		7		ESL One Cologne 2014 Cobblestone Souvenir Package
+594.98		4		StatTrak Butterfly Knife | Crimson Web (Field-Tested)
+589.0		10		Sticker | Crown (Foil)
+587.72		1		StatTrak Stiletto Knife | Crimson Web (Well-Worn)
+587.72		1		Sticker | gla1ve (Gold) | London 2018
+587.72		9		StatTrak AWP | Lightning Strike (Factory New)
+587.72		1		Stiletto Knife | Ultraviolet (Factory New)
+587.72		2		Desert Eagle | Blaze (Minimal Wear)
+587.72		9		Ursus Knife | Fade (Factory New)
+586.91		6		StatTrak M4A1-S | Player Two (Factory New)
+586.54		2		Bowie Knife | Night (Factory New)
+586.54		2		Butterfly Knife | Urban Masked (Factory New)
+585.75		3		StatTrak Karambit | Black Laminate (Minimal Wear)
+582.68		1		StatTrak Gut Knife | Boreal Forest (Battle-Scarred)
+583.36		9		Karambit | Lore (Field-Tested)
+581.15		4		Sticker | Flipsid3 Tactics (Holo) | Katowice 2015
+580.0		1		StatTrak Survival Knife | Slaughter (Minimal Wear)
+575.96		2		Hand Wraps | Duct Tape (Factory New)
+579.32		3		StatTrak AK-47 | Legion of Anubis (Minimal Wear)
+578.0		1		Souvenir Sawed-Off | Full Stop (Factory New)
+576.88		1		Karambit | Forest DDPAT (Factory New)
+576.88		7		Moto Gloves | Turtle (Minimal Wear)
+576.52		9		Karambit | Slaughter (Minimal Wear)
+573.87		2		Sticker | AdreN (Gold) | Krakow 2017
+575.0		1		StatTrak Karambit | Case Hardened (Well-Worn)
+574.79		4		StatTrak M9 Bayonet | Autotronic (Field-Tested)
+
+
+Page sum: $312874.82999999984
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 4-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=400&count=500&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+576.88		1		Karambit | Forest DDPAT (Factory New)
+576.88		7		Moto Gloves | Turtle (Minimal Wear)
+576.52		9		Karambit | Slaughter (Minimal Wear)
+575.0		1		StatTrak Karambit | Case Hardened (Well-Worn)
+574.79		4		StatTrak M9 Bayonet | Autotronic (Field-Tested)
+574.48		10		Bayonet | Fade (Factory New)
+574.86		3		Sticker | TACO (Gold) | Boston 2018
+573.3		2		Karambit | Blue Steel (Factory New)
+573.0		1		Skeleton Knife | Night Stripe (Minimal Wear)
+572.95		5		Hand Wraps | Cobalt Skulls (Battle-Scarred)
+573.36		1		Talon Knife | Tiger Tooth (Minimal Wear)
+577.34		9		Sport Gloves | Omega (Field-Tested)
+573.87		2		Sticker | AdreN (Gold) | Krakow 2017
+570.29		6		Specialist Gloves | Crimson Kimono (Battle-Scarred)
+573.29		2		Sticker | chrisJ (Gold) | Krakow 2017
+569.42		9		EMS One 2014 Souvenir Package
+570.29		3		StatTrak Butterfly Knife | Urban Masked (Minimal Wear)
+568.99		1		StatTrak Ursus Knife | Marble Fade (Factory New)
+568.02		2		StatTrak Butterfly Knife | Case Hardened (Field-Tested)
+566.0		2		StatTrak Karambit | Slaughter (Field-Tested)
+563.04		3		StatTrak Karambit
+560.4		11		Negev | Mju00f6lnir (Field-Tested)
+560.79		23		Bayonet | Gamma Doppler (Factory New)
+561.31		1		StatTrak M9 Bayonet | Slaughter (Minimal Wear)
+560.0		21		ESL One Katowice 2015 Challengers (Holo/Foil)
+559.63		23		StatTrak M9 Bayonet | Doppler (Factory New)
+557.17		3		Skeleton Knife | Night Stripe (Field-Tested)
+556.72		3		Sticker | nitr0 (Gold) | London 2018
+553.95		1		Karambit | Safari Mesh (Factory New)
+552.46		1		StatTrak AWP | BOOM (Factory New)
+552.43		18		Butterfly Knife | Crimson Web (Field-Tested)
+556.85		4		Sticker | hutji (Gold) | Krakow 2017
+545.25		4		Sticker | Dosia (Gold) | Krakow 2017
+549.96		3		StatTrak Karambit | Freehand (Minimal Wear)
+550.0		2		StatTrak Butterfly Knife | Night (Well-Worn)
+543.19		6		Negev | Mju00f6lnir (Battle-Scarred)
+543.14		2		Sticker | BIT (Gold) | Boston 2018
+540.68		2		StatTrak Stiletto Knife | Crimson Web (Minimal Wear)
+540.68		1		AK-47 | Fire Serpent (Well-Worn)
+540.68		1		M9 Bayonet | Autotronic (Well-Worn)
+540.68		3		Sticker | Virtus.Pro | Katowice 2014
+540.68		14		Specialist Gloves | Fade (Field-Tested)
+540.68		2		M9 Bayonet | Doppler (Minimal Wear)
+540.51		5		Sticker | denis (Gold) | Krakow 2017
+539.21		1		StatTrak Skeleton Knife | Forest DDPAT (Minimal Wear)
+532.98		2		StatTrak Karambit | Blue Steel (Field-Tested)
+537.46		8		Survival Knife | Slaughter (Factory New)
+541.95		4		StatTrak M9 Bayonet | Case Hardened (Well-Worn)
+536.33		2		StatTrak Talon Knife | Damascus Steel (Minimal Wear)
+535.63		1		StatTrak M9 Bayonet | Autotronic (Battle-Scarred)
+535.09		2		StatTrak Butterfly Knife | Blue Steel (Field-Tested)
+533.65		1		StatTrak Shadow Daggers | Doppler (Minimal Wear)
+532.74		3		M9 Bayonet | Tiger Tooth (Minimal Wear)
+531.47		3		Sticker | Winged Defuser
+530.3		8		Sticker | NiKo (Gold) | Katowice 2019
+529.85		1		StatTrak Karambit | Ultraviolet (Minimal Wear)
+529.08		3		Skeleton Knife | Scorched (Minimal Wear)
+528.94		11		AK-47 | Hydroponic (Minimal Wear)
+528.94		11		AK-47 | Fire Serpent (Field-Tested)
+528.94		17		Talon Knife | Tiger Tooth (Factory New)
+528.5		3		Sticker | GuardiaN (Gold) | Boston 2018
+527.77		9		Butterfly Knife | Crimson Web (Well-Worn)
+527.18		8		Butterfly Knife | Night (Minimal Wear)
+525.74		1		StatTrak M9 Bayonet | Crimson Web (Battle-Scarred)
+525.58		2		StatTrak Survival Knife | Slaughter (Field-Tested)
+517.99		1		StatTrak Huntsman Knife | Marble Fade (Minimal Wear)
+522.93		10		Sticker | LGB eSports (Foil) | Katowice 2015
+519.54		26		ESL One Katowice 2015 Cobblestone Souvenir Package
+519.35		2		StatTrak Talon Knife | Case Hardened (Minimal Wear)
+517.18		5		Bayonet | Autotronic (Minimal Wear)
+517.16		45		M9 Bayonet | Doppler (Factory New)
+515.96		2		Skeleton Knife | Stained (Field-Tested)
+515.66		2		StatTrak Skeleton Knife | Stained (Field-Tested)
+515.97		3		StatTrak Butterfly Knife | Case Hardened (Well-Worn)
+515.66		16		Butterfly Knife | Case Hardened (Minimal Wear)
+515.6		1		StatTrak Classic Knife | Slaughter (Minimal Wear)
+515.51		1		StatTrak Bayonet | Doppler (Minimal Wear)
+515.29		8		Butterfly Knife | Damascus Steel (Factory New)
+513.66		3		Butterfly Knife | Blue Steel (Battle-Scarred)
+513.66		2		Moto Gloves | POW! (Well-Worn)
+514.62		1		Skeleton Knife | Night Stripe (Well-Worn)
+518.88		1		StatTrak Talon Knife | Stained (Factory New)
+510.95		4		StatTrak Karambit | Crimson Web (Field-Tested)
+510.0		1		Souvenir Sawed-Off | Full Stop (Well-Worn)
+509.08		9		Survival Knife | Crimson Web (Field-Tested)
+510.16		5		Karambit | Crimson Web (Field-Tested)
+509.08		2		StatTrak M9 Bayonet | Black Laminate (Field-Tested)
+506.89		2		StatTrak Talon Knife | Slaughter (Field-Tested)
+504.88		5		Driver Gloves | King Snake (Well-Worn)
+505.0		4		Karambit | Black Laminate (Minimal Wear)
+504.89		4		StatTrak Classic Knife | Slaughter (Factory New)
+503.66		2		M9 Bayonet | Lore (Well-Worn)
+501.33		4		StatTrak Karambit | Damascus Steel (Minimal Wear)
+499.99		12		M9 Bayonet | Tiger Tooth (Factory New)
+499.99		2		Sticker | Clan-Mystik | Katowice 2014
+499.99		3		Skeleton Knife | Stained (Well-Worn)
+499.99		1		StatTrak Bayonet | Rust Coat (Well-Worn)
+499.99		29		MLG Columbus 2016 Cobblestone Souvenir Package
+499.99		2		Karambit | Damascus Steel (Battle-Scarred)
+500.44		1		Souvenir R8 Revolver | Bone Mask (Minimal Wear)
+
+
+Page sum: $299527.17
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 5-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=500&count=600&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+489.99		6		Butterfly Knife | Damascus Steel (Minimal Wear)
+489.85		1		StatTrak M9 Bayonet | Black Laminate (Minimal Wear)
+488.82		1		StatTrak Flip Knife | Slaughter (Factory New)
+486.83		3		Sticker | rain (Gold) | Krakow 2017
+485.5		11		Karambit | Case Hardened (Field-Tested)
+484.07		3		Sport Gloves | Omega (Well-Worn)
+483.0		1		StatTrak Bayonet | Crimson Web (Minimal Wear)
+481.93		9		Butterfly Knife | Blue Steel (Minimal Wear)
+481.93		3		StatTrak Gut Knife | Lore (Factory New)
+481.33		2		StatTrak Skeleton Knife | Forest DDPAT (Field-Tested)
+484.22		2		StatTrak Karambit | Bright Water (Factory New)
+479.98		4		StatTrak Nomad Knife | Slaughter (Minimal Wear)
+480.53		2		StatTrak Huntsman Knife | Fade (Minimal Wear)
+478.57		6		M9 Bayonet | Autotronic (Field-Tested)
+477.25		3		StatTrak Bayonet | Slaughter (Minimal Wear)
+477.22		4		Sport Gloves | Superconductor (Battle-Scarred)
+476.95		10		Karambit | Freehand (Factory New)
+470.28		1		Sticker | dupreeh (Gold) | London 2018
+470.28		1		M9 Bayonet | Black Laminate (Battle-Scarred)
+470.17		1		Sticker | AdreN (Gold) | London 2018
+470.16		1		StatTrak Nomad Knife | Crimson Web (Field-Tested)
+473.11		7		StatTrak Ursus Knife | Doppler (Factory New)
+473.11		44		Cologne 2016 Cobblestone Souvenir Package
+473.11		43		DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package
+468.45		2		Sticker | LUCAS1 (Gold) | Boston 2018
+470.83		17		Ursus Knife | Marble Fade (Factory New)
+470.17		3		StatTrak Bayonet | Lore (Field-Tested)
+470.24		4		Sticker | Fnatic | Katowice 2014
+470.0		5		Moto Gloves | Eclipse (Minimal Wear)
+470.0		4		Butterfly Knife | Ultraviolet (Battle-Scarred)
+469.9		3		Ursus Knife | Marble Fade (Minimal Wear)
+469.37		2		StatTrak Glock-18 | Bullet Queen (Factory New)
+469.01		2		Ursus Knife | Case Hardened (Factory New)
+469.01		54		ESL One Cologne 2015 Cobblestone Souvenir Package
+468.45		2		StatTrak Karambit | Stained (Minimal Wear)
+468.45		6		StatTrak Butterfly Knife | Night (Field-Tested)
+467.85		1		StatTrak Karambit | Night (Minimal Wear)
+468.45		2		StatTrak Karambit | Black Laminate (Field-Tested)
+468.45		8		Sticker | kennyS (Gold) | Berlin 2019
+468.45		2		StatTrak Butterfly Knife | Stained (Battle-Scarred)
+468.45		3		Sticker | markeloff (Gold) | Krakow 2017
+467.44		3		Talon Knife | Slaughter (Field-Tested)
+471.18		2		StatTrak Skeleton Knife | Scorched (Minimal Wear)
+467.55		9		Driver Gloves | Crimson Weave (Field-Tested)
+465.8		8		Talon Knife | Case Hardened (Minimal Wear)
+465.53		1		StatTrak Flip Knife | Tiger Tooth (Minimal Wear)
+464.8		1		Karambit | Stained (Factory New)
+463.56		1		Souvenir G3SG1 | VariCamo (Battle-Scarred)
+463.4		3		StatTrak Ursus Knife | Slaughter (Factory New)
+461.5		3		Sport Gloves | Bronze Morph (Minimal Wear)
+461.66		5		Sport Gloves | Amphibious (Battle-Scarred)
+461.66		11		Butterfly Knife | Case Hardened (Field-Tested)
+461.5		6		Specialist Gloves | Emerald Web (Field-Tested)
+461.44		9		Talon Knife | Slaughter (Minimal Wear)
+460.94		4		Specialist Gloves | Fade (Well-Worn)
+460.0		1		StatTrak Classic Knife | Night Stripe (Well-Worn)
+460.0		15		StatTrak Bayonet | Doppler (Factory New)
+460.0		1		StatTrak Ursus Knife | Crimson Web (Field-Tested)
+460.0		2		Skeleton Knife | Stained (Battle-Scarred)
+460.0		1		StatTrak Karambit | Blue Steel (Minimal Wear)
+460.0		6		Operation Vanguard Access Pass
+460.0		2		StatTrak Flip Knife | Doppler (Minimal Wear)
+460.0		2		StatTrak M9 Bayonet | Case Hardened (Battle-Scarred)
+459.59		3		StatTrak Bowie Knife | Fade (Factory New)
+459.58		1		StatTrak M9 Bayonet | Freehand (Factory New)
+459.57		4		Flip Knife | Lore (Factory New)
+454.73		1		StatTrak Talon Knife | Blue Steel (Factory New)
+458.94		10		Bayonet | Lore (Field-Tested)
+458.78		9		Paracord Knife
+457.1		4		Butterfly Knife | Blue Steel (Well-Worn)
+457.12		1		StatTrak Stiletto Knife | Scorched (Factory New)
+457.2		3		StatTrak M9 Bayonet
+455.42		2		Karambit | Bright Water (Factory New)
+455.41		4		Classic Knife | Slaughter (Field-Tested)
+455.07		8		Karambit
+454.77		3		Karambit | Blue Steel (Minimal Wear)
+454.19		1		Talon Knife | Crimson Web (Well-Worn)
+454.19		1		StatTrak Karambit | Black Laminate (Battle-Scarred)
+452.82		12		Butterfly Knife | Blue Steel (Field-Tested)
+453.5		3		Butterfly Knife | Forest DDPAT (Minimal Wear)
+450.49		1		StatTrak Bowie Knife | Stained (Factory New)
+452.55		6		Driver Gloves | Imperial Plaid (Field-Tested)
+452.0		3		Hand Wraps | Badlands (Minimal Wear)
+451.56		1		Sticker | aizy (Gold) | Krakow 2017
+451.46		3		Bayonet | Crimson Web (Minimal Wear)
+451.19		11		Karambit | Damascus Steel (Factory New)
+445.75		6		Sticker | NEO (Gold) | Krakow 2017
+450.0		3		Bowie Knife | Fade (Minimal Wear)
+450.0		1		StatTrak Butterfly Knife | Damascus Steel (Well-Worn)
+449.14		3		Sticker | tabseN (Gold) | Krakow 2017
+450.49		4		Butterfly Knife | Stained (Factory New)
+449.27		3		Sticker | Ninjas in Pyjamas | Katowice 2014
+448.13		4		StatTrak Butterfly Knife | Damascus Steel (Field-Tested)
+448.35		1		Sport Gloves | Omega (Battle-Scarred)
+448.35		1		Butterfly Knife | Damascus Steel (Battle-Scarred)
+448.09		3		Skeleton Knife | Boreal Forest (Minimal Wear)
+448.32		3		Specialist Gloves | Emerald Web (Well-Worn)
+446.67		2		MP9 | Bulldozer (Factory New)
+446.66		5		Sticker | HellRaisers | Katowice 2014
+446.66		2		Bayonet | Lore (Well-Worn)
+
+
+Page sum: $242910.2999999999
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 6-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=600&count=700&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+450.49		4		Butterfly Knife | Stained (Factory New)
+449.27		3		Sticker | Ninjas in Pyjamas | Katowice 2014
+448.13		4		StatTrak Butterfly Knife | Damascus Steel (Field-Tested)
+448.35		1		Sport Gloves | Omega (Battle-Scarred)
+448.35		1		Butterfly Knife | Damascus Steel (Battle-Scarred)
+448.09		3		Skeleton Knife | Boreal Forest (Minimal Wear)
+448.32		3		Specialist Gloves | Emerald Web (Well-Worn)
+446.67		2		MP9 | Bulldozer (Factory New)
+446.66		2		Bayonet | Lore (Well-Worn)
+446.66		5		Sticker | HellRaisers | Katowice 2014
+446.67		4		Nomad Knife | Case Hardened (Well-Worn)
+446.67		60		Krakow 2017 Cobblestone Souvenir Package
+446.85		3		StatTrak AK-47 | Vulcan (Minimal Wear)
+445.75		6		Karambit | Ultraviolet (Minimal Wear)
+446.0		5		StatTrak Bayonet | Autotronic (Field-Tested)
+445.99		7		Hand Wraps | Overprint (Field-Tested)
+444.04		8		StatTrak Classic Knife
+442.01		2		Sticker | felps (Gold) | Boston 2018
+441.86		1		StatTrak Bayonet | Lore (Well-Worn)
+441.02		7		Karambit | Lore (Battle-Scarred)
+440.84		2		StatTrak Talon Knife | Case Hardened (Field-Tested)
+440.97		2		StatTrak M9 Bayonet | Lore (Battle-Scarred)
+439.85		4		StatTrak Bowie Knife | Slaughter (Factory New)
+439.3		70		Boston 2018 Cobblestone Souvenir Package
+436.78		5		Sticker | Skadoodle (Gold) | Boston 2018
+437.52		9		Classic Knife | Slaughter (Factory New)
+436.38		4		Paracord Knife | Case Hardened (Minimal Wear)
+436.0		2		Classic Knife | Crimson Web (Minimal Wear)
+436.31		3		StatTrak M9 Bayonet | Bright Water (Minimal Wear)
+433.86		3		Nomad Knife | Slaughter (Factory New)
+434.51		2		M9 Bayonet | Autotronic (Battle-Scarred)
+433.86		2		StatTrak Karambit | Bright Water (Minimal Wear)
+432.55		3		Karambit | Black Laminate (Well-Worn)
+431.68		2		StatTrak Bayonet
+431.25		1		StatTrak M4A1-S | Chantico's Fire (Factory New)
+429.98		2		Sticker | NBK- (Gold) | Boston 2018
+429.98		1		Skeleton Knife | Night Stripe (Battle-Scarred)
+430.0		3		StatTrak Falchion Knife | Fade (Minimal Wear)
+429.98		6		Karambit | Freehand (Minimal Wear)
+429.95		1		Skeleton Knife | Forest DDPAT (Battle-Scarred)
+429.84		3		StatTrak Classic Knife | Slaughter (Field-Tested)
+428.54		1		StatTrak Survival Knife
+428.54		1		StatTrak Desert Eagle | Printstream (Minimal Wear)
+427.77		6		Karambit | Black Laminate (Field-Tested)
+427.72		51		Desert Eagle | Blaze (Factory New)
+426.08		3		Nomad Knife | Slaughter (Minimal Wear)
+428.34		3		Sticker | 100 Thieves (Foil) | Boston 2018
+424.3		2		Karambit | Damascus Steel (Minimal Wear)
+423.49		2		Karambit | Black Laminate (Battle-Scarred)
+423.15		4		Bloodhound Gloves | Charred (Minimal Wear)
+424.39		7		Bayonet | Autotronic (Field-Tested)
+423.09		1		StatTrak Butterfly Knife | Boreal Forest (Minimal Wear)
+423.15		4		Karambit | Crimson Web (Well-Worn)
+422.81		2		Butterfly Knife | Damascus Steel (Well-Worn)
+422.76		6		StatTrak Ursus Knife | Tiger Tooth (Factory New)
+421.18		3		StatTrak Butterfly Knife | Case Hardened (Battle-Scarred)
+420.93		3		StatTrak Huntsman Knife | Slaughter (Field-Tested)
+420.93		2		StatTrak Butterfly Knife | Ultraviolet (Field-Tested)
+420.0		5		Bayonet | Doppler (Minimal Wear)
+420.47		9		StatTrak P2000 | Ocean Foam (Factory New)
+419.03		17		Bayonet | Tiger Tooth (Factory New)
+418.6		51		Atlanta 2017 Cobblestone Souvenir Package
+417.28		5		StatTrak M4A4 | Asiimov (Field-Tested)
+416.85		3		StatTrak M9 Bayonet | Crimson Web (Field-Tested)
+416.6		1		StatTrak M9 Bayonet | Blue Steel (Minimal Wear)
+413.62		1		StatTrak Paracord Knife | Case Hardened (Battle-Scarred)
+415.75		11		MP9 | Wild Lily (Factory New)
+415.26		2		StatTrak Huntsman Knife | Crimson Web (Minimal Wear)
+415.19		5		M9 Bayonet | Slaughter (Field-Tested)
+411.4		1		Souvenir Tec-9 | Remote Control (Factory New)
+411.41		1		Nomad Knife | Stained (Factory New)
+414.0		9		StatTrak AK-47 | Case Hardened (Factory New)
+413.81		12		Karambit | Case Hardened (Well-Worn)
+412.06		1		StatTrak Skeleton Knife | Urban Masked (Field-Tested)
+412.45		3		Survival Knife | Slaughter (Minimal Wear)
+412.06		1		StatTrak Bayonet | Safari Mesh (Battle-Scarred)
+412.06		2		Flip Knife | Autotronic (Factory New)
+407.58		3		StatTrak M9 Bayonet | Case Hardened (Minimal Wear)
+411.41		1		Paracord Knife | Blue Steel (Factory New)
+411.41		3		Sticker | Stewie2K (Gold) | Boston 2018
+411.41		4		Butterfly Knife | Crimson Web (Battle-Scarred)
+411.41		1		StatTrak Talon Knife | Stained (Well-Worn)
+411.41		3		M9 Bayonet | Bright Water (Factory New)
+411.41		7		Bayonet | Slaughter (Minimal Wear)
+411.41		4		M9 Bayonet | Black Laminate (Minimal Wear)
+411.41		6		Karambit | Case Hardened (Battle-Scarred)
+411.4		1		Ursus Knife | Urban Masked (Factory New)
+411.27		4		Hand Wraps | Overprint (Well-Worn)
+410.98		4		StatTrak Bayonet | Tiger Tooth (Factory New)
+410.8		5		Butterfly Knife | Urban Masked (Minimal Wear)
+410.23		1		StatTrak M9 Bayonet | Stained (Factory New)
+410.0		3		Driver Gloves | Crimson Weave (Well-Worn)
+409.37		4		Sticker | gla1ve (Gold) | Krakow 2017
+405.52		1		StatTrak Survival Knife | Blue Steel (Minimal Wear)
+405.52		1		StatTrak Karambit | Bright Water (Battle-Scarred)
+406.93		3		StatTrak Nomad Knife | Case Hardened (Field-Tested)
+406.71		2		StatTrak Bayonet | Ultraviolet (Minimal Wear)
+407.36		1		StatTrak Karambit | Boreal Forest (Minimal Wear)
+406.56		3		Sticker | 3DMAX | Katowice 2014
+405.84		4		StatTrak Flip Knife | Fade (Factory New)
+
+
+Page sum: $245009.69
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 7-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=700&count=800&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+404.17		2		StatTrak Classic Knife | Stained (Minimal Wear)
+403.94		2		Ursus Knife | Blue Steel (Factory New)
+403.67		3		StatTrak Stiletto Knife | Marble Fade (Factory New)
+403.5		1		Stiletto Knife | Case Hardened (Factory New)
+403.19		1		StatTrak Butterfly Knife | Forest DDPAT (Minimal Wear)
+402.5		1		Sticker | TACO (Gold) | Krakow 2017
+402.5		2		Sticker | dupreeh (Gold) | Boston 2018
+402.5		70		Bayonet | Doppler (Factory New)
+402.5		1		StatTrak Paracord Knife | Night Stripe (Field-Tested)
+402.5		2		Sticker | shox (Gold) | Boston 2018
+401.46		5		Classic Knife | Case Hardened (Factory New)
+400.75		8		Stiletto Knife | Doppler (Minimal Wear)
+400.39		8		Butterfly Knife | Case Hardened (Well-Worn)
+400.04		3		StatTrak Flip Knife | Lore (Minimal Wear)
+400.0		17		Butterfly Knife | Ultraviolet (Field-Tested)
+400.0		1		StatTrak Karambit | Blue Steel (Battle-Scarred)
+400.0		3		Souvenir Desert Eagle | Hand Cannon (Minimal Wear)
+400.0		1		StatTrak Talon Knife | Case Hardened (Well-Worn)
+400.56		8		Sticker | LGB eSports (Holo) | Katowice 2015
+400.77		1		StatTrak Huntsman Knife | Night (Minimal Wear)
+400.9		7		StatTrak Flip Knife | Marble Fade (Factory New)
+399.65		3		StatTrak AWP | Oni Taiji (Minimal Wear)
+399.59		2		Skeleton Knife | Forest DDPAT (Field-Tested)
+398.48		3		StatTrak Karambit | Damascus Steel (Field-Tested)
+399.42		1		StatTrak Flip Knife | Black Laminate (Factory New)
+399.57		3		StatTrak Karambit | Blue Steel (Well-Worn)
+398.48		3		StatTrak AK-47 | Fuel Injector (Minimal Wear)
+397.94		33		Ursus Knife | Doppler (Factory New)
+396.12		6		Hand Wraps | Leather (Minimal Wear)
+395.56		3		StatTrak Karambit | Crimson Web (Battle-Scarred)
+396.06		8		Butterfly Knife | Damascus Steel (Field-Tested)
+395.29		7		Moto Gloves | Cool Mint (Field-Tested)
+395.16		10		Sport Gloves | Arid (Field-Tested)
+393.9		3		StatTrak Bayonet | Autotronic (Battle-Scarred)
+393.78		3		Classic Knife | Night Stripe (Factory New)
+393.78		1		Skeleton Knife | Safari Mesh (Battle-Scarred)
+393.35		5		StatTrak Butterfly Knife | Rust Coat (Battle-Scarred)
+393.08		4		Sticker | Snax (Gold) | Krakow 2017
+392.75		5		Nomad Knife | Crimson Web (Field-Tested)
+392.0		1		Flip Knife | Ultraviolet (Factory New)
+391.75		2		Souvenir Glock-18 | Candy Apple (Factory New)
+391.35		6		StatTrak Stiletto Knife | Doppler (Factory New)
+391.04		5		StatTrak Classic Knife | Crimson Web (Field-Tested)
+391.75		3		Sticker | dupreeh (Gold) | Krakow 2017
+391.75		10		Butterfly Knife | Case Hardened (Battle-Scarred)
+390.67		5		Flip Knife | Marble Fade (Minimal Wear)
+390.6		4		Sticker | s1mple (Foil) | MLG Columbus 2016
+387.91		4		StatTrak Talon Knife | Case Hardened (Battle-Scarred)
+387.91		2		Souvenir Desert Eagle | Hand Cannon (Well-Worn)
+387.91		5		Butterfly Knife | Boreal Forest (Minimal Wear)
+387.68		15		Flip Knife | Fade (Factory New)
+387.55		4		StatTrak Talon Knife | Ultraviolet (Minimal Wear)
+387.35		1		StatTrak Karambit | Night (Field-Tested)
+386.07		3		Driver Gloves | Imperial Plaid (Well-Worn)
+385.5		6		Sticker | Xizt (Gold) | London 2018
+385.17		4		Driver Gloves | Lunar Weave (Minimal Wear)
+385.11		2		StatTrak Flip Knife | Ultraviolet (Minimal Wear)
+385.84		7		Sticker | s1mple (Foil) | Cologne 2016
+384.69		1		StatTrak M9 Bayonet | Case Hardened (Field-Tested)
+384.11		3		Skeleton Knife | Forest DDPAT (Minimal Wear)
+382.1		2		Sticker | DD (Gold) | London 2018
+381.57		1		Talon Knife | Stained (Factory New)
+382.0		6		Karambit | Stained (Minimal Wear)
+382.57		3		StatTrak M9 Bayonet | Damascus Steel (Factory New)
+377.13		2		StatTrak Huntsman Knife | Scorched (Well-Worn)
+380.5		7		StatTrak Huntsman Knife | Fade (Factory New)
+380.0		5		M9 Bayonet | Case Hardened (Minimal Wear)
+379.44		7		StatTrak Flip Knife | Gamma Doppler (Factory New)
+379.38		3		Hydra Gloves | Case Hardened (Minimal Wear)
+379.59		3		StatTrak USP-S | Overgrowth (Factory New)
+378.7		5		Skeleton Knife | Boreal Forest (Field-Tested)
+378.48		2		StatTrak M9 Bayonet | Blue Steel (Field-Tested)
+378.35		12		M9 Bayonet
+376.13		2		Flip Knife | Crimson Web (Minimal Wear)
+376.13		4		Karambit | Night (Minimal Wear)
+376.2		4		Butterfly Knife | Rust Coat (Well-Worn)
+376.14		2		Flip Knife | Lore (Minimal Wear)
+376.14		2		StatTrak Butterfly Knife | Safari Mesh (Minimal Wear)
+376.14		6		StatTrak AK-47 | Neon Rider (Factory New)
+374.9		2		Bowie Knife | Case Hardened (Factory New)
+374.05		1		Skeleton Knife | Forest DDPAT (Well-Worn)
+374.05		2		StatTrak Karambit | Freehand (Field-Tested)
+373.7		9		StatTrak Huntsman Knife | Marble Fade (Factory New)
+373.63		1		Souvenir USP-S | Royal Blue (Factory New)
+374.04		1		Skeleton Knife | Boreal Forest (Well-Worn)
+373.78		4		Sticker | pashaBiceps (Gold) | Boston 2018
+372.64		3		Sticker | coldzera (Gold) | Boston 2018
+372.64		2		MP7 | Whiteout (Factory New)
+372.64		11		StatTrak AK-47 | The Empress (Factory New)
+372.48		2		Hand Wraps | Slaughter (Well-Worn)
+371.77		8		Classic Knife | Slaughter (Minimal Wear)
+371.62		2		Sticker | chrisJ (Gold) | Boston 2018
+371.73		6		Ursus Knife | Slaughter (Factory New)
+371.16		1		Talon Knife | Scorched (Factory New)
+371.22		6		Bloodhound Gloves | Snakebite (Minimal Wear)
+370.84		4		Bayonet | Autotronic (Well-Worn)
+369.31		1		StatTrak M9 Bayonet | Black Laminate (Well-Worn)
+370.0		4		Karambit | Crimson Web (Battle-Scarred)
+370.0		2		StatTrak Talon Knife | Blue Steel (Well-Worn)
+369.81		7		Karambit | Blue Steel (Field-Tested)
+
+
+Page sum: $194951.1
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 8-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=800&count=900&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+371.62		2		Sticker | chrisJ (Gold) | Boston 2018
+371.73		6		Ursus Knife | Slaughter (Factory New)
+371.16		1		Talon Knife | Scorched (Factory New)
+371.22		6		Bloodhound Gloves | Snakebite (Minimal Wear)
+370.84		4		Bayonet | Autotronic (Well-Worn)
+369.31		1		StatTrak M9 Bayonet | Black Laminate (Well-Worn)
+370.0		4		Karambit | Crimson Web (Battle-Scarred)
+370.0		2		StatTrak Talon Knife | Blue Steel (Well-Worn)
+369.81		7		Karambit | Blue Steel (Field-Tested)
+369.77		5		Sticker | Vox Eminor (Foil) | Katowice 2015
+369.77		14		Classic Knife
+369.34		9		StatTrak Talon Knife
+372.48		4		StatTrak Bayonet | Case Hardened (Well-Worn)
+372.48		3		StatTrak Flip Knife | Slaughter (Minimal Wear)
+372.29		1		StatTrak Butterfly Knife | Safari Mesh (Battle-Scarred)
+368.82		4		Skeleton Knife | Urban Masked (Field-Tested)
+354.4		3		Sticker | gob b (Gold) | Krakow 2017
+368.47		2		StatTrak Ursus Knife | Slaughter (Minimal Wear)
+368.96		3		Sticker | tiziaN (Gold) | London 2018
+368.12		5		Hand Wraps | Slaughter (Field-Tested)
+368.0		3		Karambit | Bright Water (Minimal Wear)
+368.0		6		Driver Gloves | Overtake (Minimal Wear)
+367.9		11		StatTrak Bowie Knife | Marble Fade (Factory New)
+367.33		32		Butterfly Knife | Night (Field-Tested)
+366.35		4		M9 Bayonet | Lore (Battle-Scarred)
+366.62		2		StatTrak Talon Knife | Crimson Web (Battle-Scarred)
+365.64		4		Karambit | Blue Steel (Battle-Scarred)
+365.48		4		Nomad Knife
+365.21		5		StatTrak Huntsman Knife | Slaughter (Factory New)
+364.75		15		Moto Gloves | Polygon (Field-Tested)
+377.13		2		StatTrak Huntsman Knife | Scorched (Well-Worn)
+363.32		6		Stiletto Knife | Fade (Factory New)
+363.09		1		StatTrak Skeleton Knife | Safari Mesh (Field-Tested)
+362.86		4		StatTrak Butterfly Knife | Scorched (Minimal Wear)
+362.04		9		Ursus Knife | Slaughter (Minimal Wear)
+362.04		4		StatTrak Karambit | Ultraviolet (Field-Tested)
+360.0		7		StatTrak Stiletto Knife | Fade (Factory New)
+360.0		5		Skeleton Knife | Safari Mesh (Minimal Wear)
+360.0		7		Karambit | Damascus Steel (Field-Tested)
+360.0		2		StatTrak Talon Knife | Crimson Web (Field-Tested)
+360.41		3		Souvenir SG 553 | Integrale (Field-Tested)
+359.1		7		M9 Bayonet | Black Laminate (Well-Worn)
+359.03		3		Skeleton Knife | Safari Mesh (Field-Tested)
+358.3		1		Ursus Knife | Crimson Web (Well-Worn)
+358.5		3		StatTrak Karambit | Ultraviolet (Battle-Scarred)
+358.49		11		StatTrak AWP | Graphite (Factory New)
+358.17		19		Sticker | s1mple (Gold) | Berlin 2019
+358.2		7		AK-47 | Fire Serpent (Battle-Scarred)
+358.2		18		Classic Knife | Crimson Web (Field-Tested)
+358.01		6		Sport Gloves | Hedge Maze (Battle-Scarred)
+357.94		2		Flip Knife | Fade (Minimal Wear)
+357.65		1		Nomad Knife | Slaughter (Field-Tested)
+357.02		1		Huntsman Knife | Ultraviolet (Factory New)
+356.31		2		Sticker | v4lde (Gold) | Boston 2018
+356.88		3		Stiletto Knife | Marble Fade (Minimal Wear)
+355.03		1		Karambit | Damascus Steel (Well-Worn)
+355.0		2		Sticker | NAF (Gold) | Boston 2018
+353.47		2		M9 Bayonet | Blue Steel (Factory New)
+352.78		3		StatTrak Talon Knife | Stained (Minimal Wear)
+352.64		2		StatTrak Karambit | Urban Masked (Minimal Wear)
+352.64		1		StatTrak G3SG1 | The Executioner (Minimal Wear)
+352.64		7		Talon Knife | Case Hardened (Battle-Scarred)
+352.64		2		Bayonet | Autotronic (Battle-Scarred)
+352.64		2		Sticker | dimasick (Gold) | Boston 2018
+352.64		2		StatTrak Talon Knife | Stained (Battle-Scarred)
+352.64		9		Bayonet
+352.64		7		Talon Knife | Case Hardened (Field-Tested)
+352.64		10		M9 Bayonet | Crimson Web (Field-Tested)
+352.64		2		Sticker | electronic (Gold) | London 2018
+352.64		3		Huntsman Knife | Doppler (Minimal Wear)
+352.64		14		StatTrak Huntsman Knife | Doppler (Factory New)
+352.56		6		M9 Bayonet | Ultraviolet (Minimal Wear)
+353.05		2		StatTrak Paracord Knife | Blue Steel (Minimal Wear)
+351.46		1		StatTrak Ursus Knife | Ultraviolet (Minimal Wear)
+351.46		3		Paracord Knife | Night Stripe (Minimal Wear)
+351.46		4		Butterfly Knife | Ultraviolet (Well-Worn)
+351.46		2		StatTrak Karambit | Stained (Battle-Scarred)
+351.46		14		Specialist Gloves | Crimson Web (Field-Tested)
+351.46		4		Bowie Knife | Crimson Web (Minimal Wear)
+353.05		3		Sticker | kennyS (Foil) | Cologne 2016
+350.75		1		StatTrak Butterfly Knife | Stained (Field-Tested)
+350.7		5		Karambit | Freehand (Well-Worn)
+349.71		3		Sticker | f0rest (Gold) | Katowice 2019
+350.29		1		Survival Knife | Crimson Web (Battle-Scarred)
+350.0		1		Bayonet | Scorched (Factory New)
+350.0		8		Butterfly Knife | Stained (Minimal Wear)
+350.0		4		M9 Bayonet | Black Laminate (Field-Tested)
+350.0		2		StatTrak M9 Bayonet | Damascus Steel (Battle-Scarred)
+350.0		12		StatTrak Bowie Knife | Doppler (Factory New)
+350.0		20		AK-47 | Hydroponic (Field-Tested)
+350.0		2		Ursus Knife | Tiger Tooth (Minimal Wear)
+349.0		5		Butterfly Knife | Night (Well-Worn)
+348.13		1		StatTrak Survival Knife | Night Stripe (Minimal Wear)
+347.78		1		StatTrak M9 Bayonet | Forest DDPAT (Battle-Scarred)
+347.33		31		Flip Knife | Marble Fade (Factory New)
+346.64		3		StatTrak M9 Bayonet | Blue Steel (Battle-Scarred)
+346.39		3		StatTrak Bayonet | Bright Water (Factory New)
+345.58		15		Karambit | Freehand (Field-Tested)
+345.47		4		Souvenir Galil AR | Cerberus (Factory New)
+345.0		6		M9 Bayonet | Night (Minimal Wear)
+
+
+Page sum: $194145.42
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 9-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=900&count=1000&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+345.0		1		StatTrak Nomad Knife | Blue Steel (Field-Tested)
+345.0		1		StatTrak Karambit | Night (Well-Worn)
+345.0		14		Sticker | King on the Field
+345.0		6		M9 Bayonet | Night (Minimal Wear)
+343.98		11		Sticker | pashaBiceps (Foil) | Atlanta 2017
+343.98		4		Survival Knife
+343.98		3		Sticker | arT (Gold) | Katowice 2019
+343.98		1		StatTrak Paracord Knife | Night Stripe (Minimal Wear)
+343.98		3		M9 Bayonet | Freehand (Factory New)
+343.74		3		StatTrak Bowie Knife | Slaughter (Minimal Wear)
+343.74		1		StatTrak Five-SeveN | Hyper Beast (Factory New)
+343.23		4		Paracord Knife | Case Hardened (Field-Tested)
+342.36		2		StatTrak Falchion Knife | Crimson Web (Well-Worn)
+342.97		3		Negev | Anodized Navy (Minimal Wear)
+342.7		7		Talon Knife | Damascus Steel (Factory New)
+341.49		12		Sticker | Tyloo (Holo) | Boston 2018
+341.98		2		StatTrak Talon Knife | Blue Steel (Field-Tested)
+340.9		9		Karambit | Stained (Field-Tested)
+340.9		3		Moto Gloves | Cool Mint (Well-Worn)
+340.89		20		Sticker | ZywOo (Gold) | Berlin 2019
+340.88		4		Sticker | B1ad3 (Gold) | Krakow 2017
+340.76		2		Sticker | suNny (Gold) | Krakow 2017
+340.78		2		Sticker | nex (Gold) | Krakow 2017
+339.43		1		StatTrak Talon Knife | Blue Steel (Minimal Wear)
+339.45		10		MP9 | Wild Lily (Minimal Wear)
+339.25		2		StatTrak Stiletto Knife | Slaughter (Factory New)
+339.25		3		StatTrak Bayonet | Damascus Steel (Factory New)
+336.74		1		Souvenir Tec-9 | Nuclear Threat (Minimal Wear)
+339.45		3		StatTrak Falchion Knife | Marble Fade (Minimal Wear)
+338.51		3		Bayonet | Stained (Factory New)
+337.93		2		Sticker | waterfaLLZ (Gold) | Boston 2018
+337.93		5		StatTrak Butterfly Knife | Forest DDPAT (Field-Tested)
+337.93		3		Sticker | LEGIJA (Gold) | Boston 2018
+337.93		2		StatTrak Huntsman Knife | Case Hardened (Field-Tested)
+337.93		13		Karambit | Ultraviolet (Field-Tested)
+336.81		4		Classic Knife | Blue Steel (Factory New)
+336.78		8		Butterfly Knife | Rust Coat (Battle-Scarred)
+336.78		1		StatTrak Karambit | Boreal Forest (Field-Tested)
+336.21		1		StatTrak Bayonet | Freehand (Well-Worn)
+336.38		2		Sticker | tabseN (Gold) | London 2018
+335.37		1		Karambit | Freehand (Battle-Scarred)
+335.34		3		Specialist Gloves | Foundation (Field-Tested)
+335.0		5		StatTrak USP-S | Kill Confirmed (Minimal Wear)
+335.0		3		Karambit | Ultraviolet (Well-Worn)
+334.39		6		Karambit | Blue Steel (Well-Worn)
+333.98		2		StatTrak Butterfly Knife | Boreal Forest (Battle-Scarred)
+333.51		5		AUG | Akihabara Accept (Well-Worn)
+333.5		2		StatTrak M9 Bayonet | Freehand (Minimal Wear)
+333.5		2		Sticker | keshandr (Gold) | Boston 2018
+333.74		2		Bayonet | Lore (Battle-Scarred)
+335.23		1		StatTrak Huntsman Knife | Stained (Minimal Wear)
+332.63		1		StatTrak Bayonet | Crimson Web (Well-Worn)
+332.01		21		Butterfly Knife | Boreal Forest (Field-Tested)
+331.98		2		Sticker | KRIMZ (Gold) | Krakow 2017
+331.16		2		Butterfly Knife | Forest DDPAT (Well-Worn)
+331.9		2		StatTrak Talon Knife | Night Stripe (Minimal Wear)
+330.79		2		Nomad Knife | Crimson Web (Well-Worn)
+330.53		2		StatTrak Bayonet | Case Hardened (Field-Tested)
+330.0		31		Flip Knife | Gamma Doppler (Factory New)
+330.0		2		StatTrak Karambit | Forest DDPAT (Minimal Wear)
+329.95		3		Moto Gloves | Spearmint (Battle-Scarred)
+329.64		2		M9 Bayonet | Scorched (Factory New)
+329.64		3		Sticker | Skadoodle (Gold) | London 2018
+329.64		1		Skeleton Knife | Urban Masked (Battle-Scarred)
+329.76		5		Ursus Knife | Crimson Web (Field-Tested)
+329.44		6		M9 Bayonet | Bright Water (Minimal Wear)
+329.14		3		StatTrak M9 Bayonet | Boreal Forest (Field-Tested)
+329.1		6		M9 Bayonet | Case Hardened (Field-Tested)
+328.3		3		Classic Knife | Urban Masked (Well-Worn)
+327.93		7		Talon Knife | Crimson Web (Field-Tested)
+327.91		1		StatTrak Karambit | Stained (Field-Tested)
+327.65		7		Classic Knife | Crimson Web (Battle-Scarred)
+326.0		13		Talon Knife
+325.39		1		Bayonet | Crimson Web (Well-Worn)
+312.29		1		MP9 | Wild Lily (Well-Worn)
+325.29		1		StatTrak Bowie Knife | Case Hardened (Battle-Scarred)
+325.24		4		Ursus Knife | Ultraviolet (Minimal Wear)
+325.0		3		StatTrak Shadow Daggers | Case Hardened (Minimal Wear)
+322.28		2		Sticker | jks (Gold) | London 2018
+324.0		1		StatTrak Talon Knife | Damascus Steel (Well-Worn)
+323.91		2		Sticker | seized (Gold) | Krakow 2017
+323.26		1		StatTrak AWP | Graphite (Minimal Wear)
+324.03		18		Sticker | Virtus.pro (Holo) | Katowice 2015
+323.26		6		Sport Gloves | Arid (Well-Worn)
+325.92		4		Ursus Knife | Slaughter (Field-Tested)
+323.0		6		Butterfly Knife | Stained (Field-Tested)
+322.85		4		StatTrak Butterfly Knife | Boreal Forest (Field-Tested)
+322.76		2		Butterfly Knife | Stained (Battle-Scarred)
+322.61		2		StatTrak Flip Knife | Lore (Battle-Scarred)
+321.33		19		Ursus Knife | Tiger Tooth (Factory New)
+321.25		7		Driver Gloves | King Snake (Battle-Scarred)
+320.35		15		Stiletto Knife | Marble Fade (Factory New)
+320.0		1		StatTrak Stiletto Knife | Ultraviolet (Minimal Wear)
+320.0		2		Bowie Knife | Marble Fade (Minimal Wear)
+319.5		7		M9 Bayonet | Freehand (Minimal Wear)
+318.98		2		Paracord Knife | Blue Steel (Minimal Wear)
+317.72		4		StatTrak Karambit | Rust Coat (Battle-Scarred)
+317.58		2		Bayonet | Black Laminate (Battle-Scarred)
+317.36		3		StatTrak Butterfly Knife | Safari Mesh (Field-Tested)
+317.36		3		Bayonet | Bright Water (Factory New)
+
+
+Page sum: $153552.23999999996
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 10-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1000&count=1100&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+317.36		10		AK-47 | Legion of Anubis (Factory New)
+317.94		3		Moto Gloves | Polygon (Well-Worn)
+317.0		8		Huntsman Knife | Crimson Web (Minimal Wear)
+316.19		1		StatTrak Bayonet | Freehand (Minimal Wear)
+316.19		3		StatTrak Butterfly Knife | Urban Masked (Field-Tested)
+316.19		5		StatTrak Bayonet | Crimson Web (Field-Tested)
+315.0		14		Bowie Knife | Fade (Factory New)
+314.91		20		StatTrak Flip Knife | Doppler (Factory New)
+313.86		1		StatTrak Butterfly Knife | Urban Masked (Battle-Scarred)
+313.52		3		Karambit | Urban Masked (Minimal Wear)
+313.52		2		Flip Knife | Case Hardened (Factory New)
+313.52		8		Talon Knife | Case Hardened (Well-Worn)
+312.96		7		Talon Knife | Ultraviolet (Minimal Wear)
+312.29		1		Sticker | fitch (Gold) | Boston 2018
+312.29		2		Gut Knife | Stained (Factory New)
+312.01		8		Talon Knife | Damascus Steel (Minimal Wear)
+312.29		1		StatTrak Paracord Knife | Blue Steel (Battle-Scarred)
+312.29		5		Sticker | Zeus (Gold) | Krakow 2017
+311.49		11		StatTrak M4A4 | Neo-Noir (Factory New)
+311.49		2		Falchion Knife | Ultraviolet (Factory New)
+311.27		1		StatTrak Butterfly Knife | Urban Masked (Well-Worn)
+310.89		3		StatTrak Karambit | Safari Mesh (Minimal Wear)
+310.89		2		StatTrak Talon Knife | Forest DDPAT (Battle-Scarred)
+310.82		16		StatTrak Falchion Knife | Doppler (Factory New)
+310.0		6		Stiletto Knife | Crimson Web (Minimal Wear)
+310.0		1		StatTrak Butterfly Knife | Ultraviolet (Battle-Scarred)
+310.0		1		Nomad Knife | Case Hardened (Minimal Wear)
+309.37		1		Paracord Knife | Stained (Battle-Scarred)
+309.87		20		Moto Gloves | Turtle (Field-Tested)
+309.87		1		StatTrak Paracord Knife | Stained (Battle-Scarred)
+309.24		8		Sticker | device (Gold) | Katowice 2019
+309.14		5		Huntsman Knife | Fade (Minimal Wear)
+308.86		2		StatTrak Butterfly Knife | Boreal Forest (Well-Worn)
+308.45		6		Butterfly Knife | Scorched (Minimal Wear)
+308.25		4		StatTrak Karambit | Night (Battle-Scarred)
+308.14		8		Desert Eagle | Printstream (Factory New)
+307.66		6		Bayonet | Case Hardened (Minimal Wear)
+307.24		4		M9 Bayonet | Crimson Web (Well-Worn)
+306.85		3		StatTrak Huntsman Knife | Slaughter (Minimal Wear)
+306.88		3		Talon Knife | Blue Steel (Minimal Wear)
+306.62		7		StatTrak Stiletto Knife | Damascus Steel (Factory New)
+306.43		21		Specialist Gloves | Mogul (Field-Tested)
+306.87		3		StatTrak Talon Knife | Scorched (Minimal Wear)
+306.91		1		StatTrak Huntsman Knife | Damascus Steel (Well-Worn)
+306.91		4		StatTrak Karambit | Bright Water (Field-Tested)
+305.61		1		StatTrak Bayonet | Black Laminate (Minimal Wear)
+305.61		3		M9 Bayonet | Crimson Web (Battle-Scarred)
+305.61		12		StatTrak AWP | Wildfire (Factory New)
+305.61		2		Sticker | Snax (Gold) | Boston 2018
+305.61		7		StatTrak AK-47 | Case Hardened (Minimal Wear)
+305.02		4		Sticker | olofmeister (Gold) | London 2018
+305.38		3		StatTrak Flip Knife | Lore (Field-Tested)
+304.72		1		Paracord Knife | Blue Steel (Battle-Scarred)
+305.0		3		Paracord Knife | Stained (Minimal Wear)
+304.43		2		Huntsman Knife | Marble Fade (Minimal Wear)
+303.26		4		StatTrak Talon Knife | Damascus Steel (Field-Tested)
+303.26		9		M9 Bayonet | Case Hardened (Well-Worn)
+303.19		6		M9 Bayonet | Blue Steel (Minimal Wear)
+302.82		4		Moto Gloves | Turtle (Well-Worn)
+302.64		1		Bowie Knife | Stained (Factory New)
+302.93		4		StatTrak M4A1-S | Hyper Beast (Factory New)
+302.77		3		StatTrak Gut Knife | Case Hardened (Factory New)
+301.72		1		Karambit | Rust Coat (Well-Worn)
+301.7		4		Karambit | Stained (Well-Worn)
+300.76		7		Falchion Knife | Doppler (Minimal Wear)
+300.76		1		StatTrak Huntsman Knife | Case Hardened (Battle-Scarred)
+300.57		4		Huntsman Knife | Case Hardened (Factory New)
+300.0		3		Sticker | Karsa (Gold) | Boston 2018
+300.0		6		StatTrak Flip Knife | Tiger Tooth (Factory New)
+300.0		1		Sticker | Edward (Gold) | Boston 2018
+300.0		4		Skeleton Knife | Scorched (Field-Tested)
+300.0		8		Karambit | Bright Water (Field-Tested)
+300.0		1		Skeleton Knife | Scorched (Well-Worn)
+299.99		2		AK-47 | Red Laminate (Factory New)
+299.96		7		Karambit | Night (Well-Worn)
+299.75		7		StatTrak M4A4 | Asiimov (Well-Worn)
+299.64		7		Moto Gloves | Transport (Minimal Wear)
+299.54		12		StatTrak Bowie Knife | Tiger Tooth (Factory New)
+299.0		1		Sticker | SicK (Gold) | Boston 2018
+298.97		10		StatTrak Falchion Knife | Marble Fade (Factory New)
+298.86		4		Specialist Gloves | Crimson Web (Well-Worn)
+298.78		6		Karambit | Bright Water (Well-Worn)
+298.72		1		StatTrak M9 Bayonet | Forest DDPAT (Minimal Wear)
+298.88		1		StatTrak Karambit | Scorched (Minimal Wear)
+298.72		3		Bayonet | Bright Water (Well-Worn)
+298.24		10		Flip Knife | Doppler (Minimal Wear)
+297.39		3		Moto Gloves | POW! (Battle-Scarred)
+297.39		7		StatTrak M9 Bayonet | Damascus Steel (Minimal Wear)
+297.39		8		Karambit | Forest DDPAT (Minimal Wear)
+297.39		8		Bayonet | Freehand (Factory New)
+297.39		7		Flip Knife | Slaughter (Factory New)
+296.97		6		Driver Gloves | Imperial Plaid (Battle-Scarred)
+296.67		2		Sticker | keev (Gold) | Krakow 2017
+296.67		4		StatTrak Stiletto Knife | Slaughter (Minimal Wear)
+296.67		1		Bayonet | Bright Water (Battle-Scarred)
+296.67		5		StatTrak Butterfly Knife | Night (Battle-Scarred)
+296.67		2		Classic Knife | Night Stripe (Well-Worn)
+296.55		1		Hand Wraps | Slaughter (Battle-Scarred)
+295.8		9		StatTrak Huntsman Knife | Tiger Tooth (Factory New)
+296.7		1		StatTrak Talon Knife | Damascus Steel (Battle-Scarred)
+
+
+Page sum: $151692.82000000007
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 11-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1100&count=1200&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+293.85		3		StatTrak M9 Bayonet | Night (Battle-Scarred)
+295.24		2		Skeleton Knife | Scorched (Battle-Scarred)
+295.0		5		Butterfly Knife | Safari Mesh (Minimal Wear)
+295.0		5		StatTrak Shadow Daggers | Fade (Factory New)
+294.95		3		Tec-9 | Nuclear Threat (Factory New)
+294.0		1		M9 Bayonet | Damascus Steel (Well-Worn)
+293.85		1		Sticker | Attacker (Gold) | Boston 2018
+293.85		4		Sticker | HS (Gold) | Krakow 2017
+293.85		2		Sticker | tarik (Gold) | Boston 2018
+293.85		3		Sticker | Summer (Gold) | Boston 2018
+293.85		1		Sticker | Kaze (Gold) | Boston 2018
+293.89		6		StatTrak Falchion Knife | Night (Minimal Wear)
+293.89		7		StatTrak Stiletto Knife | Tiger Tooth (Factory New)
+293.85		2		Sticker | n0thing (Gold) | Krakow 2017
+293.85		5		Bayonet | Slaughter (Field-Tested)
+293.85		4		Talon Knife | Stained (Minimal Wear)
+293.85		4		Paracord Knife | Blue Steel (Field-Tested)
+293.85		5		Karambit | Stained (Battle-Scarred)
+293.82		45		Stiletto Knife | Doppler (Factory New)
+293.89		2		Sticker | flusha (Gold) | Krakow 2017
+292.87		2		Sticker | f0rest (Gold) | London 2018
+292.53		7		MAG-7 | Cinquedea (Factory New)
+293.09		4		StatTrak Bayonet | Black Laminate (Field-Tested)
+291.93		4		Bayonet | Black Laminate (Field-Tested)
+291.93		3		AK-47 | Hydroponic (Well-Worn)
+289.88		3		Sticker | Stewie2K (Gold) | London 2018
+290.95		4		StatTrak P90 | Death by Kitty (Minimal Wear)
+291.14		1		StatTrak Butterfly Knife | Scorched (Battle-Scarred)
+290.0		4		StatTrak Talon Knife | Forest DDPAT (Field-Tested)
+290.0		8		Butterfly Knife | Stained (Well-Worn)
+289.99		5		Butterfly Knife | Night (Battle-Scarred)
+289.51		2		Sticker | apEX (Gold) | Katowice 2019
+288.8		4		StatTrak M9 Bayonet | Freehand (Field-Tested)
+288.89		3		Karambit | Ultraviolet (Battle-Scarred)
+288.8		14		Moto Gloves | Boom! (Field-Tested)
+288.7		3		Talon Knife | Blue Steel (Battle-Scarred)
+288.03		1		StatTrak M9 Bayonet | Rust Coat (Well-Worn)
+287.85		1		StatTrak Bowie Knife | Case Hardened (Minimal Wear)
+288.55		1		StatTrak Bayonet | Black Laminate (Battle-Scarred)
+287.91		5		M9 Bayonet | Damascus Steel (Minimal Wear)
+287.5		1		StatTrak Flip Knife | Lore (Well-Worn)
+287.5		2		StatTrak Flip Knife | Freehand (Minimal Wear)
+287.5		5		StatTrak M9 Bayonet | Bright Water (Field-Tested)
+287.38		7		StatTrak Gut Knife | Lore (Minimal Wear)
+286.65		1		Bayonet | Blue Steel (Factory New)
+286.83		1		Butterfly Knife | Scorched (Well-Worn)
+285.68		1		StatTrak Talon Knife | Stained (Field-Tested)
+285.62		9		Bayonet | Case Hardened (Field-Tested)
+287.92		3		M9 Bayonet | Blue Steel (Battle-Scarred)
+285.61		7		M9 Bayonet | Case Hardened (Battle-Scarred)
+285.1		2		Shadow Daggers | Fade (Minimal Wear)
+285.0		1		Sticker | stanislaw (Gold) | Boston 2018
+284.92		5		Hand Wraps | Overprint (Battle-Scarred)
+285.32		4		Bowie Knife | Doppler (Minimal Wear)
+284.52		2		Souvenir AWP | Pit Viper (Minimal Wear)
+283.86		3		StatTrak Bayonet | Damascus Steel (Minimal Wear)
+283.86		12		Karambit | Night (Field-Tested)
+283.86		4		Butterfly Knife | Urban Masked (Well-Worn)
+283.86		4		Butterfly Knife | Forest DDPAT (Battle-Scarred)
+283.96		1		StatTrak AK-47 | Jaguar (Factory New)
+283.96		4		StatTrak Classic Knife | Case Hardened (Minimal Wear)
+283.55		2		StatTrak Flip Knife | Freehand (Factory New)
+283.21		6		M9 Bayonet | Blue Steel (Field-Tested)
+283.06		3		StatTrak Flip Knife | Autotronic (Minimal Wear)
+282.11		1		StatTrak Talon Knife | Boreal Forest (Minimal Wear)
+282.11		1		StatTrak Talon Knife | Night Stripe (Battle-Scarred)
+281.98		1		StatTrak MAC-10 | Stalker (Factory New)
+281.46		2		StatTrak Flip Knife | Slaughter (Field-Tested)
+281.18		1		StatTrak M9 Bayonet | Bright Water (Well-Worn)
+280.33		3		Specialist Gloves | Mogul (Well-Worn)
+280.0		5		Huntsman Knife | Slaughter (Factory New)
+280.0		1		Sticker | ngiN (Gold) | Boston 2018
+280.0		7		Karambit | Boreal Forest (Minimal Wear)
+279.64		3		StatTrak Bayonet | Black Laminate (Well-Worn)
+279.64		25		ESL One Katowice 2015 Legends (Holo/Foil)
+279.6		25		Huntsman Knife | Fade (Factory New)
+276.72		1		StatTrak Flip Knife | Damascus Steel (Factory New)
+279.37		4		Bayonet | Black Laminate (Minimal Wear)
+279.29		1		Talon Knife | Rust Coat (Well-Worn)
+279.0		1		StatTrak Karambit | Scorched (Field-Tested)
+278.42		1		Talon Knife | Night Stripe (Battle-Scarred)
+277.98		9		StatTrak Falchion Knife | Fade (Factory New)
+277.53		9		Hydra Gloves | Emerald (Minimal Wear)
+278.39		1		StatTrak Stiletto Knife | Slaughter (Field-Tested)
+277.18		2		StatTrak Butterfly Knife | Forest DDPAT (Battle-Scarred)
+277.8		6		Talon Knife | Blue Steel (Field-Tested)
+277.0		4		StatTrak Talon Knife | Rust Coat (Battle-Scarred)
+276.99		5		Karambit | Scorched (Minimal Wear)
+276.61		4		Butterfly Knife | Boreal Forest (Well-Worn)
+276.59		1		StatTrak Gut Knife | Black Laminate (Factory New)
+276.32		3		Gut Knife | Lore (Factory New)
+276.52		2		StatTrak Falchion Knife | Tiger Tooth (Minimal Wear)
+276.24		2		StatTrak Huntsman Knife | Case Hardened (Minimal Wear)
+276.24		3		Karambit | Night (Battle-Scarred)
+276.24		6		StatTrak M9 Bayonet | Damascus Steel (Field-Tested)
+276.24		5		StatTrak Stiletto Knife | Case Hardened (Minimal Wear)
+276.24		2		P250 | Modern Hunter (Factory New)
+276.23		5		Sticker | JW (Gold) | Katowice 2019
+276.04		6		Sticker | somebody (Gold) | Katowice 2019
+276.15		80		Huntsman Knife | Doppler (Factory New)
+
+
+Page sum: $146998.12
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 12-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1200&count=1300&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+276.15		80		Huntsman Knife | Doppler (Factory New)
+276.0		7		Specialist Gloves | Emerald Web (Battle-Scarred)
+276.0		3		Sticker | ropz (Gold) | London 2018
+276.0		3		Survival Knife | Case Hardened (Minimal Wear)
+276.0		8		MP9 | Wild Lily (Field-Tested)
+275.77		4		StatTrak SSG 08 | Blood in the Water (Factory New)
+275.74		3		StatTrak M9 Bayonet | Stained (Minimal Wear)
+275.63		10		Driver Gloves | Crimson Weave (Battle-Scarred)
+275.63		3		Driver Gloves | Diamondback (Minimal Wear)
+274.8		2		StatTrak Bowie Knife | Damascus Steel (Factory New)
+275.21		5		Sticker | STYKO (Gold) | Boston 2018
+274.78		3		StatTrak Classic Knife | Case Hardened (Field-Tested)
+274.42		2		StatTrak Bowie Knife | Crimson Web (Field-Tested)
+274.2		18		Bowie Knife | Marble Fade (Factory New)
+273.66		2		StatTrak Paracord Knife | Scorched (Minimal Wear)
+273.89		1		StatTrak Survival Knife | Case Hardened (Well-Worn)
+273.77		1		Souvenir AUG | Storm (Factory New)
+273.61		2		StatTrak Bayonet | Bright Water (Minimal Wear)
+272.62		1		StatTrak Huntsman Knife | Urban Masked (Minimal Wear)
+272.92		4		StatTrak Falchion Knife | Slaughter (Factory New)
+271.98		9		Bloodhound Gloves | Bronzed (Minimal Wear)
+272.44		2		StatTrak Bayonet | Freehand (Field-Tested)
+271.7		12		MAG-7 | Cinquedea (Minimal Wear)
+271.56		1		StatTrak Talon Knife | Safari Mesh (Well-Worn)
+271.56		3		StatTrak Flip Knife | Case Hardened (Minimal Wear)
+271.53		3		Talon Knife | Crimson Web (Battle-Scarred)
+271.7		3		Butterfly Knife | Scorched (Battle-Scarred)
+271.57		4		Sticker | markeloff (Gold) | Boston 2018
+271.56		5		Talon Knife | Blue Steel (Well-Worn)
+270.34		1		StatTrak M9 Bayonet | Safari Mesh (Battle-Scarred)
+270.34		4		Classic Knife | Urban Masked (Factory New)
+270.34		3		StatTrak Karambit | Urban Masked (Field-Tested)
+270.34		1		Bayonet | Freehand (Battle-Scarred)
+270.34		3		Sticker | Boombl4 (Gold) | Boston 2018
+270.34		2		StatTrak Flip Knife | Scorched (Minimal Wear)
+270.33		2		Paracord Knife | Case Hardened (Battle-Scarred)
+270.3		5		Sticker | karrigan (Gold) | Krakow 2017
+270.34		1		M9 Bayonet | Safari Mesh (Well-Worn)
+270.34		5		Paracord Knife | Blue Steel (Well-Worn)
+270.34		3		Bowie Knife | Crimson Web (Well-Worn)
+270.34		4		Butterfly Knife | Safari Mesh (Battle-Scarred)
+270.2		3		StatTrak Desert Eagle | Code Red (Factory New)
+269.9		20		Huntsman Knife | Marble Fade (Factory New)
+269.79		8		Bowie Knife | Slaughter (Factory New)
+269.56		1		Souvenir M4A1-S | Control Panel (Minimal Wear)
+260.31		1		StatTrak Stiletto Knife | Boreal Forest (Factory New)
+268.99		2		Sticker | XANTARES (Gold) | London 2018
+269.01		4		Shadow Daggers | Damascus Steel (Battle-Scarred)
+268.0		1		Karambit | Bright Water (Battle-Scarred)
+268.0		4		Survival Knife | Night Stripe (Minimal Wear)
+267.8		15		Specialist Gloves | Fade (Battle-Scarred)
+267.31		23		Karambit | Rust Coat (Battle-Scarred)
+267.17		5		Sticker | snatchie (Gold) | London 2018
+267.18		2		Sticker | niko (Gold)  | London 2018
+266.38		1		Sticker | Jame (Gold) | Boston 2018
+264.93		2		Bayonet | Safari Mesh (Factory New)
+265.0		7		Bayonet | Damascus Steel (Factory New)
+264.46		3		Nomad Knife | Blue Steel (Minimal Wear)
+264.09		4		M9 Bayonet | Blue Steel (Well-Worn)
+264.01		7		StatTrak Talon Knife | Ultraviolet (Field-Tested)
+263.71		1		StatTrak Paracord Knife | Forest DDPAT (Minimal Wear)
+263.71		8		Flip Knife | Lore (Field-Tested)
+263.59		13		Butterfly Knife | Scorched (Field-Tested)
+263.3		75		Bowie Knife | Doppler (Factory New)
+263.17		1		StatTrak Bowie Knife | Night (Well-Worn)
+263.0		5		StatTrak M9 Bayonet | Ultraviolet (Field-Tested)
+262.93		14		M9 Bayonet | Freehand (Field-Tested)
+262.12		6		Bayonet | Bright Water (Minimal Wear)
+291.89		1		StatTrak Falchion Knife | Blue Steel (Factory New)
+261.52		5		Bayonet | Night (Minimal Wear)
+261.48		4		Butterfly Knife | Boreal Forest (Battle-Scarred)
+262.02		1		StatTrak Flip Knife | Crimson Web (Well-Worn)
+261.2		2		StatTrak Nomad Knife | Stained (Field-Tested)
+260.95		1		Sticker | devoduvek (Gold) | Boston 2018
+260.67		4		Stiletto Knife | Tiger Tooth (Minimal Wear)
+260.64		8		Huntsman Knife | Slaughter (Minimal Wear)
+260.24		4		Sticker | kennyS (Foil) | Atlanta 2017
+259.99		1		Butterfly Knife | Safari Mesh (Well-Worn)
+259.99		1		StatTrak Ursus Knife | Stained (Battle-Scarred)
+259.99		2		StatTrak Bayonet | Case Hardened (Battle-Scarred)
+259.99		2		StatTrak Desert Eagle | Printstream (Well-Worn)
+259.7		6		Hand Wraps | Arboreal (Minimal Wear)
+259.53		3		Bowie Knife | Tiger Tooth (Minimal Wear)
+259.14		13		Butterfly Knife | Safari Mesh (Field-Tested)
+259.04		12		Butterfly Knife | Forest DDPAT (Field-Tested)
+258.91		5		StatTrak Karambit | Forest DDPAT (Field-Tested)
+258.72		1		Stiletto Knife | Scorched (Factory New)
+258.6		1		StatTrak Karambit | Safari Mesh (Battle-Scarred)
+258.6		8		Survival Knife | Case Hardened (Field-Tested)
+258.6		2		Falchion Knife | Marble Fade (Minimal Wear)
+258.6		11		Talon Knife | Damascus Steel (Field-Tested)
+258.6		2		M9 Bayonet | Damascus Steel (Battle-Scarred)
+258.58		1		Sticker | rain (Gold) | London 2018
+258.19		4		Falchion Knife | Fade (Minimal Wear)
+257.98		3		M9 Bayonet | Bright Water (Battle-Scarred)
+258.17		1		Gut Knife | Night (Factory New)
+257.84		26		Sticker | iBUYPOWER (Holo) | Cologne 2014
+257.79		1		StatTrak Stiletto Knife | Stained (Factory New)
+257.79		2		StatTrak Shadow Daggers | Crimson Web (Minimal Wear)
+257.42		3		StatTrak M9 Bayonet | Scorched (Minimal Wear)
+
+
+Page sum: $164427.70000000004
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 13-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1300&count=1400&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+257.25		4		Moto Gloves | Polygon (Battle-Scarred)
+257.22		10		Bayonet | Crimson Web (Field-Tested)
+256.83		1		Sticker | LEGIJA (Gold) | Krakow 2017
+256.83		3		StatTrak Bayonet | Stained (Minimal Wear)
+256.83		16		Butterfly Knife | Urban Masked (Field-Tested)
+256.74		101		Flip Knife | Doppler (Factory New)
+256.34		21		Stiletto Knife | Tiger Tooth (Factory New)
+255.01		1		StatTrak Survival Knife | Case Hardened (Field-Tested)
+255.7		17		Sport Gloves | Bronze Morph (Field-Tested)
+255.47		16		SG 553 | Integrale (Factory New)
+255.12		5		Hand Wraps | Spruce DDPAT (Minimal Wear)
+255.27		3		Karambit | Urban Masked (Battle-Scarred)
+255.26		5		Bloodhound Gloves | Guerrilla (Minimal Wear)
+255.07		8		StatTrak Ursus Knife
+254.84		9		StatTrak AWP | Containment Breach (Minimal Wear)
+255.0		10		Stiletto Knife | Slaughter (Factory New)
+255.14		5		StatTrak Falchion Knife | Tiger Tooth (Factory New)
+254.57		3		M9 Bayonet | Damascus Steel (Field-Tested)
+253.82		2		M9 Bayonet | Rust Coat (Well-Worn)
+254.17		3		StatTrak M9 Bayonet | Night (Field-Tested)
+253.61		3		Flip Knife | Autotronic (Minimal Wear)
+253.0		1		Talon Knife | Damascus Steel (Battle-Scarred)
+253.0		8		Bayonet | Damascus Steel (Minimal Wear)
+253.0		6		StatTrak Huntsman Knife | Damascus Steel (Factory New)
+252.97		3		StatTrak Bayonet | Damascus Steel (Field-Tested)
+252.72		4		StatTrak AK-47 | Case Hardened (Battle-Scarred)
+252.72		3		Souvenir AWP | Acheron (Factory New)
+252.71		5		M9 Bayonet | Bright Water (Field-Tested)
+252.36		7		StatTrak Flip Knife | Case Hardened (Field-Tested)
+249.45		2		M9 Bayonet | Freehand (Well-Worn)
+252.48		1		StatTrak Gut Knife | Lore (Well-Worn)
+251.65		8		Sticker | Team Liquid (Foil) | Atlanta 2017
+250.73		1		StatTrak Karambit | Safari Mesh (Field-Tested)
+251.0		6		Karambit | Boreal Forest (Field-Tested)
+251.0		5		StatTrak M9 Bayonet | Rust Coat (Battle-Scarred)
+250.82		4		StatTrak Navaja Knife | Fade (Factory New)
+250.66		3		Paracord Knife | Case Hardened (Well-Worn)
+250.66		9		AUG | Hot Rod (Factory New)
+250.82		1		Classic Knife | Forest DDPAT (Factory New)
+251.13		11		Bowie Knife | Slaughter (Minimal Wear)
+251.13		5		StatTrak Ursus Knife | Case Hardened (Well-Worn)
+250.28		3		Bayonet | Ultraviolet (Minimal Wear)
+250.15		8		StatTrak AK-47 | Legion of Anubis (Field-Tested)
+250.66		2		Sticker | kNgV- (Gold) | Krakow 2017
+249.98		2		Sticker | device (Foil) | Cologne 2016
+249.98		3		Gut Knife | Autotronic (Factory New)
+249.98		1		Bowie Knife | Scorched (Factory New)
+249.98		1		StatTrak Bayonet | Stained (Battle-Scarred)
+249.59		6		Talon Knife | Urban Masked (Minimal Wear)
+249.05		6		Huntsman Knife | Tiger Tooth (Minimal Wear)
+247.8		7		Stiletto Knife | Slaughter (Minimal Wear)
+247.22		1		StatTrak Bowie Knife | Case Hardened (Well-Worn)
+247.22		1		StatTrak Classic Knife | Night Stripe (Minimal Wear)
+247.22		4		Sticker | shroud (Foil) | Cluj-Napoca 2015
+247.22		1		Sticker | Twistzz (Gold) | London 2018
+246.84		3		StatTrak Ursus Knife | Blue Steel (Minimal Wear)
+246.84		3		StatTrak Ursus Knife | Case Hardened (Minimal Wear)
+246.84		11		Bayonet | Case Hardened (Well-Worn)
+246.84		14		Classic Knife | Case Hardened (Minimal Wear)
+246.84		3		Huntsman Knife | Blue Steel (Factory New)
+246.6		2		Stiletto Knife | Slaughter (Field-Tested)
+246.48		2		Paracord Knife | Urban Masked (Minimal Wear)
+246.86		2		StatTrak Survival Knife | Stained (Well-Worn)
+245.79		2		M4A4 | Modern Hunter (Factory New)
+245.75		2		StatTrak Gut Knife | Urban Masked (Battle-Scarred)
+245.67		9		Flip Knife | Slaughter (Minimal Wear)
+245.55		1		StatTrak Paracord Knife | Stained (Well-Worn)
+245.92		4		StatTrak Flip Knife | Night (Minimal Wear)
+245.8		4		Sticker | flusha (Gold) | Boston 2018
+245.0		2		P90 | Emerald Dragon (Factory New)
+244.95		4		Bayonet | Blue Steel (Minimal Wear)
+244.66		6		Bayonet | Black Laminate (Well-Worn)
+244.69		2		StatTrak Talon Knife | Forest DDPAT (Minimal Wear)
+244.41		2		StatTrak M9 Bayonet | Stained (Field-Tested)
+244.3		1		StatTrak Survival Knife | Forest DDPAT (Minimal Wear)
+246.29		5		Talon Knife | Night Stripe (Minimal Wear)
+244.41		10		StatTrak Shadow Daggers | Doppler (Factory New)
+244.41		2		Sticker | RUSH (Gold) | London 2018
+243.65		1		StatTrak Bowie Knife | Ultraviolet (Minimal Wear)
+243.63		7		Boston 2018 Legends (Holo/Foil)
+243.47		3		Karambit | Safari Mesh (Minimal Wear)
+243.3		3		StatTrak Bayonet | Blue Steel (Minimal Wear)
+243.3		6		Bayonet | Stained (Minimal Wear)
+243.3		1		Bayonet | Freehand (Well-Worn)
+243.3		4		Specialist Gloves | Foundation (Well-Worn)
+243.6		1		StatTrak Navaja Knife | Tiger Tooth (Minimal Wear)
+243.12		16		Huntsman Knife | Tiger Tooth (Factory New)
+243.06		4		M9 Bayonet | Forest DDPAT (Minimal Wear)
+242.89		4		StatTrak Huntsman Knife | Crimson Web (Field-Tested)
+242.85		2		Flip Knife | Lore (Well-Worn)
+241.87		3		StatTrak Bowie Knife | Case Hardened (Field-Tested)
+241.47		5		Karambit | Urban Masked (Well-Worn)
+240.97		3		StatTrak Stiletto Knife | Case Hardened (Well-Worn)
+240.96		20		AK-47 | Vulcan (Factory New)
+240.46		5		Flip Knife | Slaughter (Field-Tested)
+240.52		1		StatTrak Classic Knife | Case Hardened (Well-Worn)
+239.72		3		Stiletto Knife | Blue Steel (Factory New)
+240.0		1		StatTrak Bayonet | Boreal Forest (Minimal Wear)
+240.0		27		Flip Knife | Tiger Tooth (Factory New)
+240.0		64		Falchion Knife | Doppler (Factory New)
+
+
+Page sum: $165852.31000000003
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 14-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1400&count=1500&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+236.55		4		Talon Knife | Stained (Well-Worn)
+236.47		13		Bowie Knife | Case Hardened (Minimal Wear)
+235.2		1		Sticker | felps (Gold) | Krakow 2017
+236.27		4		StatTrak AWP | Hyper Beast (Factory New)
+235.99		9		Huntsman Knife | Slaughter (Field-Tested)
+236.26		3		StatTrak Talon Knife | Ultraviolet (Battle-Scarred)
+235.84		8		Negev | Anodized Navy (Factory New)
+235.61		4		Talon Knife | Ultraviolet (Well-Worn)
+235.59		7		Talon Knife | Stained (Field-Tested)
+235.58		8		Specialist Gloves | Crimson Web (Battle-Scarred)
+235.36		4		StatTrak Huntsman Knife | Ultraviolet (Minimal Wear)
+235.37		2		StatTrak Ursus Knife | Ultraviolet (Well-Worn)
+234.21		6		StatTrak M4A1-S | Golden Coil (Factory New)
+235.2		1		StatTrak Huntsman Knife | Crimson Web (Battle-Scarred)
+235.09		2		StatTrak Karambit | Forest DDPAT (Battle-Scarred)
+235.09		3		Paracord Knife | Urban Masked (Battle-Scarred)
+235.09		1		Sticker | Xyp9x (Gold) | London 2018
+235.09		1		Sticker | balblna (Gold) | Boston 2018
+235.09		7		MAG-7 | Cinquedea (Field-Tested)
+235.14		2		Bayonet | Urban Masked (Minimal Wear)
+235.08		1		StatTrak Ursus Knife | Stained (Well-Worn)
+235.08		4		Souvenir Desert Eagle | Hand Cannon (Battle-Scarred)
+235.08		3		Sticker | electronic (Gold) | Katowice 2019
+234.74		6		Sticker | XANTARES (Gold) | Katowice 2019
+235.09		4		M9 Bayonet | Urban Masked (Minimal Wear)
+235.0		35		Bowie Knife | Tiger Tooth (Factory New)
+234.44		20		Falchion Knife | Marble Fade (Factory New)
+234.3		6		Falchion Knife | Crimson Web (Minimal Wear)
+234.18		2		StatTrak Karambit | Scorched (Battle-Scarred)
+234.09		1		Ursus Knife | Boreal Forest (Factory New)
+231.73		1		M9 Bayonet | Freehand (Battle-Scarred)
+231.73		6		Sticker | Natus Vincere (Foil) | Katowice 2015
+233.99		4		Sticker | pashaBiceps (Gold) | London 2018
+233.92		4		StatTrak Stiletto Knife | Crimson Web (Field-Tested)
+234.22		1		M9 Bayonet | Bright Water (Well-Worn)
+234.22		1		StatTrak Shadow Daggers | Tiger Tooth (Minimal Wear)
+232.8		3		StatTrak Gut Knife | Damascus Steel (Factory New)
+232.77		2		StatTrak M9 Bayonet | Stained (Well-Worn)
+232.93		7		Karambit | Forest DDPAT (Field-Tested)
+232.46		8		Moto Gloves | Eclipse (Field-Tested)
+232.42		1		Moto Gloves | Boom! (Well-Worn)
+232.03		9		Talon Knife | Ultraviolet (Field-Tested)
+232.01		28		Falchion Knife | Fade (Factory New)
+231.73		4		M9 Bayonet | Stained (Minimal Wear)
+231.56		1		StatTrak Talon Knife | Night Stripe (Field-Tested)
+231.12		7		Talon Knife | Stained (Battle-Scarred)
+231.4		3		Paracord Knife | Night Stripe (Field-Tested)
+230.94		5		Falchion Knife | Forest DDPAT (Battle-Scarred)
+230.75		1		StatTrak Ursus Knife | Blue Steel (Well-Worn)
+230.83		3		Karambit | Boreal Forest (Battle-Scarred)
+230.83		7		Butterfly Knife | Urban Masked (Battle-Scarred)
+230.47		7		Karambit | Scorched (Battle-Scarred)
+230.83		3		Nomad Knife | Crimson Web (Battle-Scarred)
+230.82		6		Navaja Knife | Doppler (Minimal Wear)
+230.43		17		Sticker | Titan (Holo) | Cologne 2014
+230.43		13		Ursus Knife
+230.36		6		StatTrak Flip Knife | Autotronic (Field-Tested)
+230.0		7		Specialist Gloves | Mogul (Battle-Scarred)
+230.0		1		Sticker | tabseN (Gold) | Boston 2018
+230.0		4		StatTrak Flip Knife | Crimson Web (Field-Tested)
+229.96		6		MAG-7 | Cinquedea (Well-Worn)
+229.58		38		Operation Payback Pass
+229.47		2		Ursus Knife | Stained (Factory New)
+229.22		3		AWP | Lightning Strike (Minimal Wear)
+229.2		6		StatTrak Ursus Knife | Damascus Steel (Factory New)
+229.0		5		StatTrak AWP | Oni Taiji (Field-Tested)
+228.04		1		StatTrak Shadow Daggers | Marble Fade (Minimal Wear)
+228.0		3		Karambit | Forest DDPAT (Well-Worn)
+226.13		1		StatTrak Survival Knife | Stained (Minimal Wear)
+227.1		2		StatTrak M9 Bayonet | Forest DDPAT (Field-Tested)
+226.95		13		M9 Bayonet | Ultraviolet (Field-Tested)
+226.27		3		Karambit | Scorched (Well-Worn)
+225.28		5		M9 Bayonet | Boreal Forest (Minimal Wear)
+225.24		3		P250 | Nuclear Threat (Factory New)
+225.0		2		M9 Bayonet | Forest DDPAT (Well-Worn)
+224.25		8		Karambit | Urban Masked (Field-Tested)
+224.08		5		Survival Knife | Case Hardened (Well-Worn)
+224.17		1		StatTrak Navaja Knife | Crimson Web (Minimal Wear)
+223.39		2		Talon Knife | Boreal Forest (Minimal Wear)
+223.34		4		StatTrak Ursus Knife | Case Hardened (Field-Tested)
+223.34		9		Bayonet | Freehand (Field-Tested)
+223.34		1		StatTrak Classic Knife | Boreal Forest (Battle-Scarred)
+223.34		1		M9 Bayonet | Boreal Forest (Well-Worn)
+223.34		1		Bayonet | Damascus Steel (Well-Worn)
+223.33		11		Shadow Daggers | Doppler (Minimal Wear)
+223.34		15		M9 Bayonet | Night (Field-Tested)
+223.34		1		StatTrak Talon Knife | Urban Masked (Field-Tested)
+223.34		2		StatTrak Bayonet | Stained (Field-Tested)
+223.33		25		StatTrak AWP | Asiimov (Field-Tested)
+223.07		3		StatTrak Flip Knife | Damascus Steel (Minimal Wear)
+222.99		7		Bayonet | Case Hardened (Battle-Scarred)
+222.98		9		AK-47 | Fuel Injector (Factory New)
+222.76		14		StatTrak Gut Knife | Gamma Doppler (Factory New)
+222.7		1		Survival Knife | Safari Mesh (Factory New)
+222.55		11		Karambit | Safari Mesh (Field-Tested)
+222.5		6		Sticker | Fnatic (Foil) | DreamHack 2014
+222.5		3		Moto Gloves | Turtle (Battle-Scarred)
+222.44		5		Ursus Knife | Case Hardened (Minimal Wear)
+220.99		7		Sticker | 3DMAX (Foil) | Katowice 2015
+221.34		1		Survival Knife | Blue Steel (Well-Worn)
+
+
+Page sum: $135177.55999999997
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 15-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1500&count=1600&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+223.34		9		Bayonet | Freehand (Field-Tested)
+223.34		4		StatTrak Ursus Knife | Case Hardened (Field-Tested)
+223.33		11		Shadow Daggers | Doppler (Minimal Wear)
+223.34		15		M9 Bayonet | Night (Field-Tested)
+223.34		2		StatTrak Bayonet | Stained (Field-Tested)
+223.34		1		StatTrak Talon Knife | Urban Masked (Field-Tested)
+223.33		25		StatTrak AWP | Asiimov (Field-Tested)
+223.07		3		StatTrak Flip Knife | Damascus Steel (Minimal Wear)
+222.99		7		Bayonet | Case Hardened (Battle-Scarred)
+222.98		9		AK-47 | Fuel Injector (Factory New)
+222.76		14		StatTrak Gut Knife | Gamma Doppler (Factory New)
+222.7		1		Survival Knife | Safari Mesh (Factory New)
+222.55		11		Karambit | Safari Mesh (Field-Tested)
+222.5		6		Sticker | Fnatic (Foil) | DreamHack 2014
+222.5		3		Moto Gloves | Turtle (Battle-Scarred)
+222.44		5		Ursus Knife | Case Hardened (Minimal Wear)
+220.99		7		Sticker | 3DMAX (Foil) | Katowice 2015
+221.34		1		Survival Knife | Blue Steel (Well-Worn)
+220.0		2		Survival Knife | Blue Steel (Minimal Wear)
+220.0		3		StatTrak Huntsman Knife | Case Hardened (Well-Worn)
+220.0		2		StatTrak Bayonet | Ultraviolet (Field-Tested)
+220.0		3		Nomad Knife | Stained (Minimal Wear)
+219.99		5		Talon Knife | Forest DDPAT (Minimal Wear)
+219.8		7		Bayonet | Blue Steel (Field-Tested)
+219.42		2		StatTrak Bayonet | Bright Water (Field-Tested)
+218.9		5		Ursus Knife | Crimson Web (Battle-Scarred)
+218.62		3		StatTrak Talon Knife | Safari Mesh (Minimal Wear)
+218.52		5		Talon Knife | Urban Masked (Well-Worn)
+218.47		14		Stiletto Knife | Case Hardened (Minimal Wear)
+218.61		1		StatTrak Ursus Knife | Ultraviolet (Battle-Scarred)
+219.76		2		StatTrak Bayonet | Ultraviolet (Well-Worn)
+217.58		13		Sticker | Counter Logic Gaming (Holo) | Katowice 2015
+217.55		5		Karambit | Safari Mesh (Battle-Scarred)
+217.46		3		StatTrak Gut Knife | Fade (Factory New)
+217.47		4		Bowie Knife | Slaughter (Field-Tested)
+217.44		4		Karambit | Forest DDPAT (Battle-Scarred)
+217.42		5		Flip Knife | Lore (Battle-Scarred)
+217.25		2		M9 Bayonet | Boreal Forest (Battle-Scarred)
+216.85		1		StatTrak Falchion Knife | Slaughter (Field-Tested)
+216.85		3		StatTrak Gut Knife | Crimson Web (Battle-Scarred)
+216.0		3		Nomad Knife | Case Hardened (Field-Tested)
+215.11		3		Talon Knife | Ultraviolet (Battle-Scarred)
+215.48		3		StatTrak Bayonet | Ultraviolet (Battle-Scarred)
+214.98		3		Sticker | xccurate (Gold) | Katowice 2019
+215.47		4		Bowie Knife | Blue Steel (Factory New)
+215.11		4		StatTrak Falchion Knife | Damascus Steel (Factory New)
+215.11		11		Karambit | Scorched (Field-Tested)
+215.1		14		Classic Knife | Case Hardened (Field-Tested)
+215.08		45		AWP | Lightning Strike (Factory New)
+215.0		1		Paracord Knife | Night Stripe (Battle-Scarred)
+215.0		1		StatTrak Bayonet | Forest DDPAT (Minimal Wear)
+215.0		1		Paracord Knife | Stained (Field-Tested)
+214.98		9		Sticker | DickStacy (Gold) | Berlin 2019
+215.46		2		M9 Bayonet | Stained (Battle-Scarred)
+214.84		4		Paracord Knife | Scorched (Minimal Wear)
+213.74		4		Sticker | RUSH (Gold) | Boston 2018
+215.08		1		Sticker | TaZ (Gold) | Krakow 2017
+214.6		6		Specialist Gloves | Forest DDPAT (Minimal Wear)
+214.27		4		Sticker | Magisk (Gold) | London 2018
+214.27		2		Sticker | MSL (Gold) | Boston 2018
+213.94		8		M9 Bayonet | Ultraviolet (Well-Worn)
+214.17		4		M9 Bayonet | Ultraviolet (Battle-Scarred)
+214.17		4		AUG | Akihabara Accept (Battle-Scarred)
+213.99		1		StatTrak Bayonet | Stained (Well-Worn)
+213.71		2		Paracord Knife | Stained (Well-Worn)
+213.48		8		Sport Gloves | Bronze Morph (Battle-Scarred)
+213.47		12		StatTrak Shadow Daggers | Marble Fade (Factory New)
+213.27		6		Bayonet | Blue Steel (Well-Worn)
+212.98		5		M9 Bayonet | Stained (Well-Worn)
+212.75		6		StatTrak Huntsman Knife
+212.46		3		Stiletto Knife | Crimson Web (Well-Worn)
+212.55		1		StatTrak Talon Knife | Boreal Forest (Well-Worn)
+212.12		16		Hand Wraps | Badlands (Field-Tested)
+212.11		10		StatTrak M4A4 | Tooth Fairy (Factory New)
+211.57		8		MP9 | Wild Lily (Battle-Scarred)
+211.57		3		Nomad Knife | Blue Steel (Field-Tested)
+211.57		4		Sticker | Brollan (Gold) | Katowice 2019
+211.57		1		StatTrak Gut Knife | Tiger Tooth (Minimal Wear)
+211.57		2		StatTrak Classic Knife | Blue Steel (Well-Worn)
+211.57		4		Falchion Knife | Case Hardened (Factory New)
+211.53		20		Bowie Knife | Crimson Web (Field-Tested)
+211.32		1		StatTrak Classic Knife | Blue Steel (Battle-Scarred)
+211.31		4		M9 Bayonet | Stained (Field-Tested)
+211.2		4		Flip Knife | Autotronic (Well-Worn)
+210.86		8		M9 Bayonet | Rust Coat (Battle-Scarred)
+210.63		1		StatTrak Bayonet | Urban Masked (Battle-Scarred)
+209.54		1		Sticker | Kjaerbye (Gold) | Krakow 2017
+210.8		1		StatTrak Gut Knife | Black Laminate (Well-Worn)
+210.4		4		Gut Knife | Lore (Minimal Wear)
+210.4		9		Sticker | FaZe Clan (Foil) | Atlanta 2017
+209.89		2		StatTrak Bayonet | Boreal Forest (Field-Tested)
+210.07		4		StatTrak USP-S | Kill Confirmed (Field-Tested)
+209.95		1		M9 Bayonet | Night (Well-Worn)
+210.0		7		MAG-7 | Cinquedea (Battle-Scarred)
+210.0		3		StatTrak Falchion Knife | Slaughter (Minimal Wear)
+209.99		2		StatTrak Ursus Knife | Stained (Minimal Wear)
+209.79		5		StatTrak Classic Knife | Blue Steel (Minimal Wear)
+209.69		5		StatTrak Navaja Knife | Doppler (Factory New)
+209.23		3		Nomad Knife | Case Hardened (Battle-Scarred)
+209.23		1		StatTrak Gut Knife | Fade (Minimal Wear)
+
+
+Page sum: $118369.31000000004
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 16-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1600&count=1700&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+205.71		22		AWP | Containment Breach (Factory New)
+205.0		1		StatTrak Gut Knife | Autotronic (Well-Worn)
+205.0		8		StatTrak AK-47 | Aquamarine Revenge (Factory New)
+204.53		2		StatTrak Flip Knife | Case Hardened (Battle-Scarred)
+204.53		6		Sticker | Natus Vincere (Foil) | Atlanta 2017
+203.97		1		StatTrak Huntsman Knife | Blue Steel (Minimal Wear)
+203.68		2		Nomad Knife | Blue Steel (Well-Worn)
+203.62		5		M9 Bayonet | Scorched (Battle-Scarred)
+203.55		3		StatTrak Ursus Knife | Case Hardened (Battle-Scarred)
+203.51		10		Falchion Knife | Slaughter (Factory New)
+203.51		2		StatTrak Ursus Knife | Safari Mesh (Minimal Wear)
+203.68		1		Sticker | Kjaerbye (Gold) | Boston 2018
+203.68		4		Survival Knife | Case Hardened (Battle-Scarred)
+203.68		3		Sticker | cajunb (Gold) | Krakow 2017
+203.34		5		Bayonet | Blue Steel (Battle-Scarred)
+203.33		7		M9 Bayonet | Urban Masked (Battle-Scarred)
+203.16		2		Talon Knife | Safari Mesh (Battle-Scarred)
+203.48		3		Sticker | BnTeT (Gold) | London 2018
+202.76		1		DreamHack 2014 Overpass Souvenir Package
+202.76		11		Sticker | somebody (Gold) | Berlin 2019
+202.76		3		StatTrak Flip Knife | Autotronic (Battle-Scarred)
+202.76		4		StatTrak Talon Knife | Urban Masked (Well-Worn)
+203.4		3		Talon Knife | Scorched (Minimal Wear)
+202.76		3		Bayonet | Damascus Steel (Battle-Scarred)
+202.76		2		StatTrak Desert Eagle | Hypnotic (Minimal Wear)
+202.99		3		StatTrak Huntsman Knife | Rust Coat (Well-Worn)
+202.99		2		StatTrak Stiletto Knife | Case Hardened (Battle-Scarred)
+202.31		4		StatTrak Bowie Knife
+202.25		12		Desert Eagle | Hand Cannon (Factory New)
+202.19		4		Sticker | Fnatic (Foil) | Atlanta 2017
+202.19		9		AWP | BOOM (Factory New)
+201.95		16		Sticker | Fnatic (Holo) | Katowice 2015
+201.25		1		Huntsman Knife | Scorched (Factory New)
+201.17		10		StatTrak AK-47 | Case Hardened (Well-Worn)
+200.99		1		StatTrak Navaja Knife | Slaughter (Field-Tested)
+200.99		1		StatTrak Bayonet | Bright Water (Well-Worn)
+200.98		6		StatTrak Talon Knife | Boreal Forest (Field-Tested)
+200.63		3		Paracord Knife | Forest DDPAT (Field-Tested)
+200.63		1		StatTrak Flip Knife | Bright Water (Factory New)
+200.58		12		StatTrak Navaja Knife | Marble Fade (Factory New)
+200.44		2		StatTrak Talon Knife | Safari Mesh (Battle-Scarred)
+200.64		5		M9 Bayonet | Safari Mesh (Battle-Scarred)
+200.0		2		Nomad Knife | Boreal Forest (Minimal Wear)
+200.0		2		Paracord Knife | Safari Mesh (Minimal Wear)
+200.0		1		StatTrak Bowie Knife | Forest DDPAT (Minimal Wear)
+200.0		1		StatTrak Falchion Knife | Damascus Steel (Minimal Wear)
+200.0		1		Stiletto Knife | Boreal Forest (Factory New)
+200.0		1		StatTrak Classic Knife | Forest DDPAT (Battle-Scarred)
+200.0		6		AWP | Oni Taiji (Factory New)
+200.0		1		StatTrak Survival Knife | Boreal Forest (Field-Tested)
+200.0		2		G3SG1 | Chronos (Well-Worn)
+200.3		1		StatTrak Ursus Knife | Night Stripe (Minimal Wear)
+199.99		2		Souvenir AWP | Safari Mesh (Minimal Wear)
+199.99		3		Desert Eagle | Hand Cannon (Well-Worn)
+199.99		9		Sticker | Astralis (Foil) | Atlanta 2017
+199.89		3		StatTrak Ursus Knife | Damascus Steel (Minimal Wear)
+199.82		22		DreamHack 2013 Souvenir Package
+199.82		7		StatTrak Bayonet | Rust Coat (Battle-Scarred)
+199.82		10		Huntsman Knife | Case Hardened (Minimal Wear)
+199.58		7		Bayonet | Bright Water (Field-Tested)
+198.92		2		StatTrak Classic Knife | Forest DDPAT (Minimal Wear)
+199.0		5		Falchion Knife | Tiger Tooth (Minimal Wear)
+198.95		3		Talon Knife | Boreal Forest (Battle-Scarred)
+198.66		9		Sticker | Counter Logic Gaming (Foil) | Katowice 2015
+198.66		4		Sticker | KRIMZ (Gold) | Boston 2018
+198.66		19		Shadow Daggers | Fade (Factory New)
+197.64		2		StatTrak Huntsman Knife | Scorched (Minimal Wear)
+198.23		3		Souvenir Nova | Candy Apple (Factory New)
+197.77		1		StatTrak Huntsman Knife | Safari Mesh (Battle-Scarred)
+197.77		4		Moto Gloves | Eclipse (Well-Worn)
+197.66		3		Huntsman Knife | Crimson Web (Battle-Scarred)
+197.47		3		Survival Knife | Forest DDPAT (Minimal Wear)
+197.47		7		Flip Knife | Autotronic (Field-Tested)
+197.35		3		StatTrak Stiletto Knife | Blue Steel (Minimal Wear)
+196.89		4		StatTrak Falchion Knife | Ultraviolet (Minimal Wear)
+196.3		3		Talon Knife | Forest DDPAT (Battle-Scarred)
+196.3		2		StatTrak Gut Knife | Slaughter (Factory New)
+196.0		5		StatTrak Gut Knife | Marble Fade (Factory New)
+196.0		2		Paracord Knife | Boreal Forest (Well-Worn)
+196.0		4		Bayonet | Ultraviolet (Well-Worn)
+195.97		5		StatTrak Talon Knife | Scorched (Field-Tested)
+195.55		1		Bayonet | Forest DDPAT (Well-Worn)
+195.21		1		Huntsman Knife | Boreal Forest (Factory New)
+195.51		4		StatTrak Shadow Daggers | Damascus Steel (Factory New)
+195.5		2		Bayonet | Rust Coat (Well-Worn)
+195.5		1		StatTrak Survival Knife | Stained (Battle-Scarred)
+195.87		15		Sticker | kennyS (Foil) | Krakow 2017
+195.28		9		Talon Knife | Night Stripe (Field-Tested)
+195.13		1		Bayonet | Scorched (Minimal Wear)
+194.87		2		StatTrak Talon Knife | Scorched (Battle-Scarred)
+192.88		3		Bayonet | Stained (Well-Worn)
+194.77		5		Hand Wraps | Leather (Field-Tested)
+194.63		11		Driver Gloves | Overtake (Field-Tested)
+194.49		9		StatTrak Desert Eagle | Golden Koi (Factory New)
+194.07		5		Hydra Gloves | Rattler (Minimal Wear)
+193.96		5		Sticker | Flammable (Foil)
+193.96		2		StatTrak Bayonet | Blue Steel (Well-Worn)
+193.71		4		Bayonet | Boreal Forest (Minimal Wear)
+193.49		9		Boston 2018 Minor Challengers Autograph Capsule
+193.49		2		StatTrak Classic Knife | Scorched (Well-Worn)
+
+
+Page sum: $94091.95000000001
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 17-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1700&count=1800&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+193.37		3		Talon Knife | Boreal Forest (Well-Worn)
+193.58		8		StatTrak Gut Knife | Autotronic (Field-Tested)
+193.57		5		M9 Bayonet | Safari Mesh (Minimal Wear)
+193.54		5		Sticker | mou (Gold) | Krakow 2017
+192.81		4		Talon Knife | Scorched (Well-Worn)
+192.77		2		Survival Knife | Boreal Forest (Minimal Wear)
+192.76		4		Gut Knife | Gamma Doppler (Minimal Wear)
+193.04		6		StatTrak Shadow Daggers | Tiger Tooth (Factory New)
+192.64		10		Moto Gloves | Cool Mint (Battle-Scarred)
+192.34		11		USP-S | Kill Confirmed (Factory New)
+192.36		1		StatTrak Bowie Knife | Rust Coat (Well-Worn)
+191.89		4		Hand Wraps | Leather (Well-Worn)
+191.61		3		Talon Knife | Safari Mesh (Minimal Wear)
+191.52		4		StatTrak Classic Knife | Blue Steel (Field-Tested)
+191.95		4		Classic Knife | Night Stripe (Battle-Scarred)
+191.43		8		StatTrak P90 | Asiimov (Factory New)
+191.33		7		Classic Knife | Blue Steel (Minimal Wear)
+190.5		2		StatTrak AK-47 | Legion of Anubis (Well-Worn)
+190.49		2		Paracord Knife | Forest DDPAT (Well-Worn)
+190.44		2		StatTrak Ursus Knife | Stained (Field-Tested)
+190.44		39		Falchion Knife | Tiger Tooth (Factory New)
+190.29		27		StatTrak AK-47 | Bloodsport (Factory New)
+190.16		3		Huntsman Knife | Forest DDPAT (Factory New)
+190.1		13		Bayonet | Rust Coat (Battle-Scarred)
+190.1		1		StatTrak Navaja Knife | Crimson Web (Well-Worn)
+190.1		1		StatTrak Nomad Knife | Stained (Well-Worn)
+188.1		1		StatTrak Gut Knife | Freehand (Well-Worn)
+190.0		2		Nomad Knife | Stained (Battle-Scarred)
+189.99		10		M9 Bayonet | Forest DDPAT (Field-Tested)
+189.9		3		StatTrak Stiletto Knife | Damascus Steel (Minimal Wear)
+189.83		4		StatTrak M9 Bayonet | Urban Masked (Field-Tested)
+190.1		3		Falchion Knife | Scorched (Factory New)
+190.1		1		Nomad Knife | Urban Masked (Minimal Wear)
+188.07		2		StatTrak Shadow Daggers | Slaughter (Field-Tested)
+187.84		1		StatTrak M9 Bayonet | Urban Masked (Well-Worn)
+189.69		2		Bayonet | Stained (Field-Tested)
+189.91		2		Talon Knife | Urban Masked (Battle-Scarred)
+189.68		2		StatTrak Classic Knife | Forest DDPAT (Well-Worn)
+189.26		2		Talon Knife | Forest DDPAT (Well-Worn)
+189.23		2		StatTrak Flip Knife | Crimson Web (Battle-Scarred)
+189.23		2		StatTrak Flip Knife | Bright Water (Minimal Wear)
+189.23		14		StatTrak AK-47 | Redline (Minimal Wear)
+189.23		4		Huntsman Knife | Blue Steel (Minimal Wear)
+189.23		3		StatTrak Gut Knife | Lore (Field-Tested)
+189.22		9		StatTrak Huntsman Knife | Damascus Steel (Minimal Wear)
+188.74		18		Sticker | Natus Vincere (Holo) | DreamHack 2014
+188.05		1		Flip Knife | Safari Mesh (Factory New)
+187.96		7		Hand Wraps | Leather (Battle-Scarred)
+188.07		1		StatTrak Nomad Knife | Night Stripe (Field-Tested)
+188.07		4		Survival Knife | Blue Steel (Field-Tested)
+188.07		2		StatTrak M9 Bayonet | Scorched (Field-Tested)
+188.07		1		Huntsman Knife | Night (Minimal Wear)
+188.07		5		StatTrak Bayonet | Night (Field-Tested)
+188.1		11		Desert Eagle | Printstream (Minimal Wear)
+188.1		7		Stiletto Knife | Crimson Web (Field-Tested)
+188.07		15		M9 Bayonet | Scorched (Field-Tested)
+188.07		2		Flip Knife | Damascus Steel (Factory New)
+188.02		18		Bloodhound Gloves | Charred (Field-Tested)
+187.88		4		Sticker | wayLander (Gold) | Krakow 2017
+187.94		13		Sticker | Titan (Foil) | Cluj-Napoca 2015
+187.88		2		Paracord Knife | Safari Mesh (Well-Worn)
+188.0		3		StatTrak Galil AR | Orange DDPAT (Factory New)
+188.04		1		Sticker | autimatic (Gold) | Boston 2018
+187.38		6		M9 Bayonet | Scorched (Minimal Wear)
+187.28		3		StatTrak Classic Knife | Stained (Field-Tested)
+185.39		5		Sticker | loWel (Gold) | Krakow 2017
+187.24		4		StatTrak Falchion Knife | Crimson Web (Field-Tested)
+187.38		2		StatTrak Gut Knife | Case Hardened (Field-Tested)
+187.38		1		StatTrak Huntsman Knife | Blue Steel (Field-Tested)
+187.03		5		Desert Eagle | Hand Cannon (Field-Tested)
+186.18		1		Sticker | LoveYY (Gold) | Boston 2018
+186.9		10		Flip Knife | Case Hardened (Field-Tested)
+186.9		6		Classic Knife | Case Hardened (Battle-Scarred)
+186.8		5		StatTrak Classic Knife | Night Stripe (Field-Tested)
+186.79		13		Bowie Knife | Case Hardened (Field-Tested)
+186.81		4		StatTrak Flip Knife | Case Hardened (Well-Worn)
+187.03		2		Glock-18 | Synth Leaf (Well-Worn)
+187.02		2		Sticker | ShahZaM (Gold) | London 2018
+186.32		3		AK-47 | Wasteland Rebel (Factory New)
+186.7		7		Boston 2018 Minor Challengers (Holo/Foil)
+186.21		10		Sticker | Keyd Stars (Holo) | Katowice 2015
+186.33		4		StatTrak SG 553 | Ultraviolet (Factory New)
+185.85		10		M9 Bayonet | Boreal Forest (Field-Tested)
+185.72		1		Survival Knife | Stained (Minimal Wear)
+185.97		3		Sticker | flamie (Gold) | Boston 2018
+185.3		8		Talon Knife | Boreal Forest (Field-Tested)
+185.0		10		StatTrak AK-47 | Fuel Injector (Field-Tested)
+184.93		14		Ursus Knife | Damascus Steel (Factory New)
+185.29		2		Talon Knife | Night Stripe (Well-Worn)
+184.75		2		StatTrak Stiletto Knife | Urban Masked (Minimal Wear)
+184.38		4		Sticker | NiKo (Foil) | Atlanta 2017
+185.72		2		Survival Knife | Night Stripe (Battle-Scarred)
+184.39		2		Bloodhound Gloves | Snakebite (Well-Worn)
+184.0		2		StatTrak Paracord Knife | Scorched (Field-Tested)
+184.0		2		StatTrak Flip Knife | Forest DDPAT (Well-Worn)
+184.0		4		Bayonet | Stained (Battle-Scarred)
+184.35		6		Sticker | G2 Esports (Foil) | Atlanta 2017
+184.35		2		StatTrak Classic Knife | Case Hardened (Battle-Scarred)
+183.63		3		Shadow Daggers | Case Hardened (Factory New)
+183.59		16		Stiletto Knife | Case Hardened (Field-Tested)
+
+
+Page sum: $103513.09999999998
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 18-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1800&count=1900&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+185.85		10		M9 Bayonet | Boreal Forest (Field-Tested)
+185.72		1		Survival Knife | Stained (Minimal Wear)
+185.97		3		Sticker | flamie (Gold) | Boston 2018
+186.18		1		Sticker | LoveYY (Gold) | Boston 2018
+185.3		8		Talon Knife | Boreal Forest (Field-Tested)
+185.0		10		StatTrak AK-47 | Fuel Injector (Field-Tested)
+184.93		14		Ursus Knife | Damascus Steel (Factory New)
+185.29		2		Talon Knife | Night Stripe (Well-Worn)
+184.75		2		StatTrak Stiletto Knife | Urban Masked (Minimal Wear)
+184.38		4		Sticker | NiKo (Foil) | Atlanta 2017
+185.72		2		Survival Knife | Night Stripe (Battle-Scarred)
+184.39		2		Bloodhound Gloves | Snakebite (Well-Worn)
+184.0		2		StatTrak Paracord Knife | Scorched (Field-Tested)
+184.0		2		StatTrak Flip Knife | Forest DDPAT (Well-Worn)
+184.0		4		Bayonet | Stained (Battle-Scarred)
+184.35		6		Sticker | G2 Esports (Foil) | Atlanta 2017
+184.35		2		StatTrak Classic Knife | Case Hardened (Battle-Scarred)
+183.63		3		Shadow Daggers | Case Hardened (Factory New)
+183.59		16		Stiletto Knife | Case Hardened (Field-Tested)
+183.47		4		StatTrak Navaja Knife | Slaughter (Factory New)
+183.25		9		StatTrak Stiletto Knife
+183.31		4		Classic Knife | Boreal Forest (Well-Worn)
+183.31		1		StatTrak Ursus Knife | Blue Steel (Field-Tested)
+182.64		6		Flip Knife | Crimson Web (Well-Worn)
+182.82		3		StatTrak Falchion Knife | Case Hardened (Field-Tested)
+182.69		9		Flip Knife | Case Hardened (Minimal Wear)
+182.67		1		StatTrak Bayonet | Safari Mesh (Minimal Wear)
+182.62		9		Flip Knife | Freehand (Factory New)
+182.59		7		StatTrak Desert Eagle | Printstream (Field-Tested)
+182.48		7		StatTrak Gut Knife | Tiger Tooth (Factory New)
+182.58		4		StatTrak AWP | Oni Taiji (Well-Worn)
+182.31		2		StatTrak Gut Knife | Case Hardened (Minimal Wear)
+182.3		2		StatTrak Shadow Daggers | Slaughter (Minimal Wear)
+182.2		2		StatTrak Flip Knife | Night (Well-Worn)
+182.19		4		StatTrak M9 Bayonet | Safari Mesh (Field-Tested)
+182.19		8		Gut Knife | Autotronic (Minimal Wear)
+180.27		2		StatTrak Navaja Knife | Case Hardened (Battle-Scarred)
+182.07		10		Talon Knife | Scorched (Field-Tested)
+182.0		22		AK-47 | Legion of Anubis (Minimal Wear)
+181.3		1		StatTrak Survival Knife | Safari Mesh (Well-Worn)
+181.32		10		Classic Knife | Case Hardened (Well-Worn)
+181.18		3		Survival Knife | Scorched (Minimal Wear)
+181.13		7		StatTrak Huntsman Knife | Damascus Steel (Field-Tested)
+181.13		3		Bayonet | Forest DDPAT (Minimal Wear)
+181.13		4		Hand Wraps | Duct Tape (Minimal Wear)
+180.89		8		Ursus Knife | Case Hardened (Field-Tested)
+180.45		9		Flip Knife | Ultraviolet (Minimal Wear)
+180.46		4		StatTrak Navaja Knife | Case Hardened (Minimal Wear)
+180.0		3		Paracord Knife | Boreal Forest (Field-Tested)
+180.0		3		Sticker | NiKo (Foil) | Cologne 2016
+180.0		1		Survival Knife | Blue Steel (Battle-Scarred)
+180.0		1		Ursus Knife | Scorched (Factory New)
+180.0		6		StatTrak Shadow Daggers
+179.98		5		StatTrak Falchion Knife | Night (Field-Tested)
+179.86		8		Flip Knife | Autotronic (Battle-Scarred)
+179.86		15		Falchion Knife | Slaughter (Minimal Wear)
+179.83		15		Sticker | Team Dignitas (Holo) | DreamHack 2014
+179.4		4		Bayonet | Night (Well-Worn)
+179.74		5		Stiletto Knife | Ultraviolet (Minimal Wear)
+179.72		15		StatTrak M4A1-S | Player Two (Minimal Wear)
+179.54		11		Flip Knife | Bright Water (Minimal Wear)
+179.47		5		Hand Wraps | Badlands (Battle-Scarred)
+179.05		4		Flip Knife | Night (Minimal Wear)
+180.68		2		StatTrak Flip Knife | Black Laminate (Minimal Wear)
+179.0		3		Shadow Daggers | Marble Fade (Minimal Wear)
+178.42		5		M9 Bayonet | Urban Masked (Well-Worn)
+178.14		7		Huntsman Knife | Ultraviolet (Minimal Wear)
+177.99		9		M9 Bayonet | Urban Masked (Field-Tested)
+177.87		2		StatTrak Ursus Knife | Ultraviolet (Field-Tested)
+177.72		8		Flip Knife | Bright Water (Factory New)
+177.28		12		Specialist Gloves | Buckshot (Minimal Wear)
+177.0		13		Talon Knife | Urban Masked (Field-Tested)
+176.98		3		Bloodhound Gloves | Charred (Well-Worn)
+176.98		11		CZ75-Auto | Chalice (Factory New)
+176.91		9		Talon Knife | Safari Mesh (Field-Tested)
+176.32		1		StatTrak Paracord Knife | Scorched (Well-Worn)
+176.31		4		StatTrak SSG 08 | Bloodshot (Minimal Wear)
+176.31		1		Sticker | NiKo (Foil) | Cluj-Napoca 2015
+176.32		14		StatTrak M4A4 | The Emperor (Minimal Wear)
+176.32		2		StatTrak Talon Knife | Safari Mesh (Field-Tested)
+176.32		5		Bayonet | Night (Battle-Scarred)
+176.29		1		StatTrak Ursus Knife | Damascus Steel (Field-Tested)
+176.37		10		Huntsman Knife | Case Hardened (Field-Tested)
+176.37		1		StatTrak Falchion Knife | Case Hardened (Battle-Scarred)
+176.15		1		StatTrak Classic Knife | Stained (Well-Worn)
+176.33		2		Talon Knife | Safari Mesh (Well-Worn)
+175.79		8		Bayonet | Night (Field-Tested)
+175.73		2		StatTrak AUG | Bengal Tiger (Factory New)
+175.73		4		StatTrak Bowie Knife | Night (Field-Tested)
+175.73		2		StatTrak Bayonet | Forest DDPAT (Field-Tested)
+175.73		4		StatTrak Bayonet | Urban Masked (Field-Tested)
+175.72		19		Huntsman Knife
+175.56		4		Sticker | FalleN (Gold) | London 2018
+175.45		5		Classic Knife | Blue Steel (Field-Tested)
+175.4		1		StatTrak Stiletto Knife | Stained (Minimal Wear)
+175.37		5		M9 Bayonet | Scorched (Well-Worn)
+175.0		1		StatTrak Nomad Knife | Night Stripe (Well-Worn)
+174.97		12		Sticker | HellRaisers (Foil) | Katowice 2015
+175.16		2		Souvenir Dual Berettas | Twin Turbo (Minimal Wear)
+174.87		15		Hydra Gloves | Case Hardened (Field-Tested)
+
+
+Page sum: $102604.05000000003
+
+|---------------------------------------------------------------|
+
+|--------------------------- PAGE 19-----------------------------|
+
+|---------------------------------------------------------------|
+Query URL: https://steamcommunity.com/market/search/render/?query=&start=1900&count=2000&search_descriptions=0&sort_column=price&sort_dir=des&appid=730&norender=0
+
+
+172.5		1		StatTrak P90 | Emerald Dragon (Battle-Scarred)
+172.5		2		Shadow Daggers | Urban Masked (Factory New)
+172.5		1		StatTrak Shadow Daggers | Night (Minimal Wear)
+172.5		1		StatTrak Bayonet | Boreal Forest (Well-Worn)
+172.47		2		Gut Knife | Fade (Minimal Wear)
+172.33		2		StatTrak MAC-10 | Graven (Factory New)
+172.11		6		StatTrak Gut Knife | Autotronic (Battle-Scarred)
+171.98		2		StatTrak Ursus Knife | Urban Masked (Minimal Wear)
+171.98		2		Navaja Knife | Fade (Minimal Wear)
+171.98		2		Bayonet | Scorched (Battle-Scarred)
+171.87		5		Bowie Knife | Crimson Web (Battle-Scarred)
+171.87		4		M9 Bayonet | Forest DDPAT (Battle-Scarred)
+171.76		18		Bloodhound Gloves | Snakebite (Field-Tested)
+171.67		3		Gut Knife | Marble Fade (Minimal Wear)
+171.16		3		Bayonet | Ultraviolet (Battle-Scarred)
+171.25		7		Bowie Knife | Damascus Steel (Factory New)
+171.12		10		Sticker | Virtus.pro (Foil) | Katowice 2015
+171.0		24		StatTrak AK-47 | Vulcan (Field-Tested)
+171.0		3		Navaja Knife | Case Hardened (Factory New)
+170.44		11		Shadow Daggers | Crimson Web (Minimal Wear)
+170.44		10		Sticker | 3DMAX (Holo) | Katowice 2015
+170.38		20		Huntsman Knife | Crimson Web (Field-Tested)
+170.32		2		Bayonet | Safari Mesh (Battle-Scarred)
+170.32		5		StatTrak Flip Knife | Night (Field-Tested)
+170.24		8		Stiletto Knife | Case Hardened (Well-Worn)
+170.0		10		Ursus Knife | Ultraviolet (Field-Tested)
+170.0		2		Sticker | paz (Gold) | Boston 2018
+170.0		12		Flip Knife | Freehand (Minimal Wear)
+170.33		1		StatTrak Huntsman Knife | Blue Steel (Battle-Scarred)
+169.9		3		Gut Knife | Autotronic (Well-Worn)
+169.88		1		Huntsman Knife | Stained (Factory New)
+171.35		1		StatTrak Survival Knife | Boreal Forest (Well-Worn)
+169.68		2		StatTrak Survival Knife | Urban Masked (Field-Tested)
+169.74		4		Sticker | Golden (Gold) | Boston 2018
+169.45		6		Souvenir M4A1-S | Master Piece (Minimal Wear)
+169.76		1		StatTrak Flip Knife | Damascus Steel (Well-Worn)
+169.25		6		Ursus Knife | Blue Steel (Minimal Wear)
+169.0		7		Survival Knife | Stained (Field-Tested)
+168.96		2		StatTrak Bowie Knife | Boreal Forest (Minimal Wear)
+168.96		6		StatTrak Bowie Knife | Damascus Steel (Minimal Wear)
+168.87		3		Hand Wraps | Arboreal (Well-Worn)
+168.64		3		Survival Knife | Stained (Well-Worn)
+168.6		15		StatTrak AWP | Wildfire (Minimal Wear)
+168.44		3		StatTrak Falchion Knife | Case Hardened (Well-Worn)
+168.38		10		Classic Knife | Night Stripe (Minimal Wear)
+168.33		10		Huntsman Knife | Case Hardened (Well-Worn)
+168.31		12		Bayonet | Ultraviolet (Field-Tested)
+168.09		6		Survival Knife | Night Stripe (Field-Tested)
+168.44		5		Sticker | CeRq (Gold) | Katowice 2019
+168.44		2		StatTrak Gut Knife | Boreal Forest (Well-Worn)
+167.69		6		Stiletto Knife | Damascus Steel (Factory New)
+167.6		4		StatTrak AK-47 | Point Disarray (Factory New)
+167.22		3		Flip Knife | Stained (Factory New)
+167.11		2		StatTrak Bayonet | Safari Mesh (Field-Tested)
+166.92		5		Desert Eagle | Hand Cannon (Battle-Scarred)
+166.92		5		StatTrak Classic Knife | Scorched (Minimal Wear)
+166.7		7		StatTrak Glock-18 | Bullet Queen (Minimal Wear)
+166.11		17		StatTrak AK-47 | The Empress (Minimal Wear)
+165.69		7		StatTrak Huntsman Knife | Night (Field-Tested)
+165.6		9		Falchion Knife | Slaughter (Field-Tested)
+165.3		5		Stiletto Knife | Crimson Web (Battle-Scarred)
+164.87		1		Gut Knife | Boreal Forest (Factory New)
+165.0		85		Shadow Daggers | Doppler (Factory New)
+165.0		14		Talon Knife | Forest DDPAT (Field-Tested)
+164.99		6		Desert Eagle | Hand Cannon (Minimal Wear)
+164.82		1		StatTrak Ursus Knife | Boreal Forest (Minimal Wear)
+164.94		37		AK-47 | Case Hardened (Factory New)
+164.82		2		Souvenir AK-47 | Safari Mesh (Factory New)
+164.82		2		Ursus Knife | Urban Masked (Minimal Wear)
+164.82		7		Hydra Gloves | Case Hardened (Well-Worn)
+164.65		9		G3SG1 | Chronos (Field-Tested)
+164.97		3		Sticker | mou (Gold) | Boston 2018
+164.97		3		Bowie Knife | Night (Minimal Wear)
+164.72		2		Bowie Knife | Blue Steel (Minimal Wear)
+164.72		9		M4A1-S | Master Piece (Factory New)
+164.72		10		Bowie Knife | Case Hardened (Battle-Scarred)
+164.72		7		StatTrak Flip Knife
+164.72		14		Bowie Knife | Ultraviolet (Minimal Wear)
+164.57		11		Bloodhound Gloves | Charred (Battle-Scarred)
+164.56		8		Sticker | RUSH (Gold) | Katowice 2019
+164.57		3		StatTrak Gut Knife | Slaughter (Minimal Wear)
+164.57		5		StatTrak Desert Eagle | Printstream (Battle-Scarred)
+164.57		7		Paracord Knife | Urban Masked (Field-Tested)
+164.42		7		Navaja Knife | Crimson Web (Minimal Wear)
+164.31		6		AK-47 | Hydroponic (Battle-Scarred)
+164.39		2		Souvenir SG 553 | Integrale (Well-Worn)
+164.29		18		Sticker | HellRaisers (Holo) | Katowice 2015
+164.19		5		Flip Knife | Black Laminate (Minimal Wear)
+164.26		1		StatTrak Bayonet | Forest DDPAT (Battle-Scarred)
+163.61		6		Driver Gloves | Convoy (Minimal Wear)
+163.56		4		Paracord Knife | Forest DDPAT (Battle-Scarred)
+163.58		6		Hand Wraps | Spruce DDPAT (Field-Tested)
+163.46		10		Bloodhound Gloves | Guerrilla (Field-Tested)
+162.92		13		Sticker | Cloud9 (Holo) | DreamHack 2014
+162.92		7		Classic Knife | Blue Steel (Battle-Scarred)
+162.88		10		AK-47 | Asiimov (Factory New)
+163.22		2		StatTrak Flip Knife | Black Laminate (Battle-Scarred)
+162.93		1		StatTrak Navaja Knife | Boreal Forest (Well-Worn)
+162.93		2		Sticker | NEO (Gold) | Boston 2018
+162.81		2		StatTrak Gut Knife | Stained (Well-Worn)
+
+
+Page sum: $117721.90000000007
+Entire CS:GO market evaluated at: $3857085.52
