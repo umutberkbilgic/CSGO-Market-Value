@@ -15,11 +15,11 @@ report = open(dt_string, 'w')
 
 # set some const and var
 textstr = "" # accumulating string that will be written to text file at the end
-sleep_timer = 10 # sleep timer to go around pesky status code 429s (valve pls fix)
+sleep_timer = 5 # sleep timer to go around pesky status code 429s (valve pls fix)
 current = 0 # page item offset
 increment = 100 # number of items in page
 total_items = 15150 # rough number of items in the entire market
-desired_number_of_pages = 20 # number of pages we want. (152 for everything)               
+desired_number_of_pages = 152 # number of pages we want. (152 for everything)               
 sum = 0 # final sum dolla dolla billz
 
 print('\n' + str(desired_number_of_pages * increment)  + " number of items will be scanned.")
@@ -44,6 +44,9 @@ for j in range(0, desired_number_of_pages):
       print("Terminating ...")
       textstr += ('Partial CS:GO market evaluated at: $' + str(sum)) + "\n"
       textstr += ("Got up to " + str(j * increment) + " items." + "\n")
+      textstr += ('Entire CS:GO market evaluated at: $' + str(sum) + "\n")
+      n = report.write(textstr)
+      report.close()
       exit(0)
 
     else:
